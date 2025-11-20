@@ -32,6 +32,26 @@ export const menu = {
                         "id": 1
                     }
                 ]
+            },
+            {
+                "title": "Insalata césar",
+                "description": "Ensalada césar hecha con tiras de pollo de corral empanado, queso burata y mix de canónigos",
+                "price": 20,
+                "allergens": [
+                    {
+                        "id": 1
+                    }
+                ]
+            },
+            {
+                "title": "Insalata césar",
+                "description": "Ensalada césar hecha con tiras de pollo de corral empanado, queso burata y mix de canónigos",
+                "price": 20,
+                "allergens": [
+                    {
+                        "id": 1
+                    }
+                ]
             }
         ]
     },
