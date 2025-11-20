@@ -5,7 +5,11 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
 	kit: {
         adapter: adapter({
-			fallback: '200.html' // may differ from host to host
+			fallback: '200.html', // may differ from host to host
+			pages: 'build',
+			assets: 'build',
+			precompress: false,
+			strict: true
 		}),
 		paths: {
 			base: process.argv.includes('dev') ? '' : '/mar-i-prio-menu'
