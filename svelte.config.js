@@ -8,7 +8,7 @@ const config = {
 			fallback: '200.html' // may differ from host to host
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : 'mar-i-prio-menu'
+			base: process.argv.includes('dev') ? '' : '/mar-i-prio-menu'
 		}
     }
 };
