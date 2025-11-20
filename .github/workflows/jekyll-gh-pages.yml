@@ -24,13 +24,11 @@ jobs:
           cache: npm
       - name: Install patch-package
         run: npm install patch-package
-        
+
       - name: Install dependencies
         run: npm i
 
       - name: build
-        env:
-           BASE_PATH: '/${{ github.event.repository.name }}'
         run: |
          npm run build
 
