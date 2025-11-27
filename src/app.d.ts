@@ -8,18 +8,23 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
-	type Allergen = {
-		id: number;
-	}
 	type CategoryEntry = {
 		title: string;
 		description: string | null;
 		price: number;
-		allergens: Array<Allergen> | never;
+		allergens: Array<int> | never;
 	}
 	type Category = {
 		name: string;
 		entries: Array<CategoryEntry>;
+	}
+	type Allergen = {
+		name: string;
+		color: string;
+		colordark: string;
+	}
+	interface Dictionary<T> {
+		[Key: number]: T;
 	}
 }
 
