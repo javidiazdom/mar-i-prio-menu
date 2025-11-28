@@ -1,16 +1,21 @@
 <script lang="ts">
-	import { menu } from "../menu";
+	import { spanish } from "../menu/es-ES";
+	import { english } from "../menu/en-UK";
     import logo from "$lib/assets/mar-i-prio-logo.png";
     import favicon from "$lib/assets/mar-i-prio-logo.ico";
 
+    let menus: Dictionary<Menu> = {
+        "es-ES": spanish,
+        "en-UK": english
+    }
+    let languages: Array<string> = ["es-ES", "en-UK"];
     
-
-	let categories: Array<Category> = menu.categories;
-	let selectedCategory: Category | undefined = $state(categories[0]);
-    let allergens: Dictionary<Allergen> = menu.allergens;
+    let selectedLanguage:string = $state("es-ES");
+    let menu = $derived(menus[selectedLanguage]);
+    let selectedCategory: Category | undefined = $derived(menu.categories[0]);
     
     function setSelectedCategory(selectedCategoryName: string) {
-        selectedCategory = categories.find(x => x.name == selectedCategoryName);
+        selectedCategory = menu.categories.find(x => x.name == selectedCategoryName);
     }
 </script>
 
@@ -26,9 +31,15 @@
     <div class="header">
         <img alt="Mar i prio logo" src="{logo}" class="logo">
     </div>
+    
+    <select name="language" bind:value={selectedLanguage}>    
+    {#each languages as language}
+        <option value="{language}">{language}</option>
+    {/each}
+    </select>
 
     <nav class="navigation">
-        {#each categories as category}
+        {#each menu.categories as category}
             <button class="montaga-regular nav-entry" class:selected-button={selectedCategory?.name == category.name} onclick={(e: Event) => setSelectedCategory(category.name)}>{category.name}</button>
         {/each}
     </nav>
@@ -42,8 +53,8 @@
                     {#each entry.allergens as allergen}
                     <div 
                         class="allergen roboto"
-                        style={`color: ${allergens[allergen].colordark}; background-color: ${allergens[allergen].color}; border-color: ${allergens[allergen].colordark}`}
-                        >{allergens[allergen].name}</div>
+                        style={`color: ${menu.allergens[allergen].colordark}; background-color: ${menu.allergens[allergen].color}; border-color: ${menu.allergens[allergen].colordark}`}
+                        >{menu.allergens[allergen].name}</div>
                     {/each}
                 </div>
                 <p class="price roboto">{entry.price}€</p>

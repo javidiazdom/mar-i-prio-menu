@@ -8,6 +8,10 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+	type Menu = {
+		categories: Array<Category>;
+		allergens: Dictionary<Allergen>;
+	}
 	type CategoryEntry = {
 		title: string;
 		description: string | null;
@@ -25,6 +29,9 @@ declare global {
 	}
 	interface Dictionary<T> {
 		[Key: number]: T;
+	}
+	interface Dictionary<T> {
+		[Key: string]: T;
 	}
 }
 

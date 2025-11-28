@@ -1,4 +1,4 @@
-export const menu = {
+export const spanish = {
    "categories" : [
     {
         "name": "Platos principales",
