@@ -1,256 +1,256 @@
-export const english = {
+export const german = {
     "categories": [
         {
-            "name": "Starters",
+            "name": "Vorspeise",
             "entries": [
                 {
-                    "title": "Caprese Salad",
-                    "description": "Our most classic salad. Juicy slices of tomatoes, creamy buffalo mozzarella and basil leaves with extra virgin olive oil",
+                    "title": "Caprese Salat",
+                    "description": "Unser klassischster Salat. Saftige Tomatenscheiben, cremige Büffelmozzarella und Basilikumblätter mit extra nativem Olivenöl",
                     "price": 11.50,
                     "allergens": []
                 },
                 {
-                    "title": "Burrata Salad",
-                    "description": "Creamy burrata on a bed of arugula and lettuce with cherry tomatoes and crispy caramelized bacon dressed with a red fruit sauce",
+                    "title": "Burrata Salat",
+                    "description": "Cremiger Burrata auf einem Bett aus Rucola und Salat mit Kirschtomaten und knusprigem karamellisiertem Bacon, verfeinert mit einer roten Beerensoße",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
-                    "title": "Caesar Salad",
-                    "description": "Fresh lettuce, cherry tomatoes, sun-dried tomatoes, egg, crispy chicken, toasted bread, thin slices of parmesan and our homemade Caesar dressing",
+                    "title": "Caesar Salat",
+                    "description": "Frischer Salat, Kirschtomaten, getrocknete Tomaten, Ei, knuspriges Hähnchen, geröstetes Brot, dünne Parmesanscheiben und unser hausgemachtes Caesar-Dressing",
                     "price": 12.50,
                     "allergens": []
                 },
                 {
-                    "title": "Caesar Salad",
-                    "description": "Caesar salad made with breaded free-range chicken strips, burrata cheese and a lamb’s lettuce mix",
+                    "title": "Caesar Salat",
+                    "description": "Caesar-Salat mit panierten Freiland-Hähnchenstreifen, Burratakäse und Feldsalatmischung",
                     "price": 20,
                     "allergens": []
                 },
                 {
-                    "title": "Caesar Salad",
-                    "description": "Caesar salad made with breaded free-range chicken strips, burrata cheese and a lamb’s lettuce mix",
+                    "title": "Caesar Salat",
+                    "description": "Caesar-Salat mit panierten Freiland-Hähnchenstreifen, Burratakäse und Feldsalatmischung",
                     "price": 20,
                     "allergens": []
                 },
                 {
-                    "title": "Mixed Salad",
-                    "description": "Lettuce, cucumber, tomato slices, corn, carrot, tuna, onion, egg and a slice of parmesan",
+                    "title": "Gemischter Salat",
+                    "description": "Salat, Gurke, Tomatenscheiben, Mais, Karotte, Thunfisch, Zwiebel, Ei und eine Scheibe Parmesan",
                     "price": 11.50,
                     "allergens": []
                 },
                 {
                     "title": "Vitello Tonnato",
-                    "description": "Thin slices of roasted veal, capers and tuna sauce",
+                    "description": "Dünne Scheiben von gebratenem Kalbfleisch, Kapern und Thunfischsoße",
                     "price": 12.90,
                     "allergens": []
                 },
                 {
-                    "title": "Beef Carpaccio",
-                    "description": "Thin slices of beef tenderloin with arugula, mushrooms, parmesan and lemon citronette with a balsamic touch",
+                    "title": "Rindercarpaccio",
+                    "description": "Dünne Scheiben Rinderfilet mit Rucola, Champignons, Parmesan und Zitronen-Citronette mit Balsamico",
                     "price": 14.80,
                     "allergens": []
                 },
                 {
-                    "title": "Octopus Salad",
-                    "description": "Slices of octopus with candied red pepper, carrot, cherry tomato and paprika with a light aromatic potato sauce",
+                    "title": "Oktopussalat",
+                    "description": "Oktopusscheiben mit konfiertem rotem Paprika, Karotte, Kirschtomate und Paprika mit einer leichten aromatischen Kartoffelsoße",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Eggplant Parmigiana",
-                    "description": "Slices of eggplant with homemade Neapolitan sauce, parmesan, basil and oven-gratin",
+                    "title": "Parmigiana aus Auberginen",
+                    "description": "Auberginenscheiben mit hausgemachter neapolitanischer Soße, Parmesan, Basilikum und überbacken",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Potato Croquettes",
-                    "description": "Italian potato croquettes with provolone and cooked ham served with a mild mango and curry aioli",
+                    "title": "Kartoffelcroquettes",
+                    "description": "Italienische Kartoffelcroquettes mit Provolone und gekochtem Schinken, serviert mit einer milden Mango-Curry-Aioli",
                     "price": 9.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fried Cheese",
-                    "description": "Semi-cured cheese triangles with homemade red onion marmalade",
+                    "title": "Frittierter Käse",
+                    "description": "Halb gereifte Käseecken mit hausgemachter roter Zwiebelmarmelade",
                     "price": 10.00,
                     "allergens": []
                 },
                 {
-                    "title": "Grilled Smoked Cheese",
-                    "description": "Smoked cheese grilled and served with a sweet sauce of pepper, onion, tomato and basil",
+                    "title": "Gegrillter Räucherkäse",
+                    "description": "Geräucherter Käse, gegrillt und serviert mit einer süßen Soße aus Paprika, Zwiebel, Tomate und Basilikum",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Baked Provolone",
-                    "description": "Typical Italian cheese melted in the oven with oregano and served with grissini",
+                    "title": "Überbackener Provolone",
+                    "description": "Typischer italienischer Käse im Ofen geschmolzen mit Oregano und serviert mit Grissini",
                     "price": 9.90,
                     "allergens": []
                 },
                 {
-                    "title": "Plain Bread",
+                    "title": "Normales Brot",
                     "description": null,
                     "price": 3.50,
                     "allergens": []
                 },
                 {
-                    "title": "Garlic Bread",
+                    "title": "Knoblauchbrot",
                     "description": null,
                     "price": 3.90,
                     "allergens": []
                 },
                 {
-                    "title": "Garlic Bread with Cheese",
+                    "title": "Knoblauchbrot mit Käse",
                     "description": null,
                     "price": 4.60,
                     "allergens": []
                 },
                 {
-                    "title": "White Focaccia",
-                    "description": "With oregano and extra virgin olive oil",
+                    "title": "Weiße Focaccia",
+                    "description": "Mit Oregano und extra nativem Olivenöl",
                     "price": 5.20,
                     "allergens": []
                 },
                 {
-                    "title": "Two-Color Focaccia",
-                    "description": "Pizza base with tomato and garlic sauce",
+                    "title": "Zweifarbige Focaccia",
+                    "description": "Pizzaboden mit Tomate und Knoblauchsoße",
                     "price": 6.10,
                     "allergens": []
                 },
                 {
-                    "title": "Three-Color Focaccia",
-                    "description": "Pizza base with tomato, garlic sauce and fior di latte mozzarella",
+                    "title": "Dreifarbige Focaccia",
+                    "description": "Pizzaboden mit Tomate, Knoblauchsoße und Fior-di-Latte-Mozzarella",
                     "price": 6.70,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Pasta",
+            "name": "Pastas",
             "entries": [
                 {
                     "title": "Spaghetti Carbonara",
-                    "description": "Spaghetti with creamy egg sauce, pecorino romano and crispy guanciale",
+                    "description": "Spaghetti mit cremiger Eiersoße, Pecorino Romano und knusprigem Guanciale",
                     "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Rigatoni all’Arrabbiata",
-                    "description": "Pasta with homemade tomato sauce, garlic, parsley and chili",
+                    "description": "Pasta mit hausgemachter Tomatensoße, Knoblauch, Petersilie und Chili",
                     "price": 11.80,
                     "allergens": []
                 },
                 {
                     "title": "Spaghetti Bolognese",
-                    "description": "Spaghetti with meat and tomato sauce Bolognese style",
+                    "description": "Spaghetti mit Fleisch-Tomatensoße im Bologneser Stil",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
                     "title": "Spaghetti Aglio, Olio e Peperoncino",
-                    "description": "Spaghetti with garlic, extra virgin olive oil, chili and parsley",
+                    "description": "Spaghetti mit Knoblauch, nativem Olivenöl, Chili und Petersilie",
                     "price": 11.50,
                     "allergens": []
                 },
                 {
                     "title": "Rigatoni alla Puttanesca",
-                    "description": "Pasta with anchovies, capers, olives and tomato sauce",
+                    "description": "Pasta mit Sardellen, Kapern, Oliven und Tomatensoße",
                     "price": 13.30,
                     "allergens": []
                 },
                 {
-                    "title": "Rigatoni Four Cheeses",
-                    "description": "Pasta with assorted cheese sauce and cream",
+                    "title": "Rigatoni Vier Käse",
+                    "description": "Pasta mit gemischter Käsesoße und Sahne",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
                     "title": "Spaghetti Pomodoro",
-                    "description": "Spaghetti with homemade tomato sauce and basil",
+                    "description": "Spaghetti mit hausgemachter Tomatensoße und Basilikum",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Veggie Spaghetti",
-                    "description": "Spaghetti sautéed with assorted vegetables and a red pepper and beetroot sauce",
+                    "title": "Gemüse-Spaghetti",
+                    "description": "Spaghetti mit sautiertem Gemüse und einer Paprika-Rote-Bete-Soße",
                     "price": 13.20,
                     "allergens": []
                 },
                 {
-                    "title": "Meat Lasagna",
-                    "description": "Pasta layers with Bolognese, béchamel and gratin cheese",
+                    "title": "Lasagne",
+                    "description": "Pasta-Schichten mit Bolognese, Béchamel und gratiniertem Käse",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle al Pesto",
-                    "description": "Tagliatelle with basil sauce, pine nuts, parmesan and olive oil",
+                    "description": "Tagliatelle mit Basilikumsoße, Pinienkernen, Parmesan und Olivenöl",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri Amatriciana",
-                    "description": "Short pasta with homemade tomato sauce and crispy guanciale",
+                    "description": "Kurze Pasta mit hausgemachter Tomatensoße und knusprigem Guanciale",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
-                    "title": "Paccheri Norma",
-                    "description": "Pasta with eggplant, tomato sauce, basil and smoked scamorza cheese",
+                    "title": "Paccheri alla Norma",
+                    "description": "Pasta mit Auberginen, Tomatensoße, Basilikum und geräuchertem Scamorza",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
-                    "title": "Tagliatelle with Zucchini and Shrimp",
-                    "description": "Tagliatelle with zucchini sauce, shrimp, parsley and cream",
+                    "title": "Tagliatelle mit Zucchini und Garnelen",
+                    "description": "Tagliatelle mit Zucchinisoße, Garnelen, Petersilie und Sahne",
                     "price": null,
                     "allergens": []
                 },
                 {
-                    "title": "Tagliatelle with Porcini Mushrooms and Truffle",
-                    "description": "Tagliatelle with Italian mushrooms and truffle cream",
+                    "title": "Tagliatelle mit Steinpilzen und Trüffel",
+                    "description": "Tagliatelle mit italienischen Pilzen und Trüffelcreme",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
-                    "title": "Black Tagliatelle with Clams and Pesto",
-                    "description": "Black tagliatelle with clams, cherry tomatoes and pesto",
+                    "title": "Schwarze Tagliatelle mit Venusmuscheln und Pesto",
+                    "description": "Schwarze Tagliatelle mit Venusmuscheln, Kirschtomaten und Pesto",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fusilli with Seafood",
-                    "description": "Artisanal pasta with assorted fresh seafood in marinara sauce",
+                    "title": "Fusilli mit Meeresfrüchten",
+                    "description": "Handgemachte Pasta mit frischen Meeresfrüchten in Marinara-Soße",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fusilli with Mushrooms and Sausage",
-                    "description": "Artisanal pasta with mushrooms, Italian sausage, tomato and a touch of cream",
+                    "title": "Fusilli mit Pilzen und Wurst",
+                    "description": "Handgemachte Pasta mit Pilzen, italienischer Wurst, Tomate und einem Hauch Sahne",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fiocchetti with Gorgonzola",
-                    "description": "Pasta filled with cheese and pear with gorgonzola sauce, arugula, nuts, serrano ham and parmesan",
+                    "title": "Fiocchetti mit Gorgonzola",
+                    "description": "Gefüllte Pasta mit Käse und Birne, Gorgonzolasoße, Rucola, Nüssen, Serranoschinken und Parmesan",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
-                    "title": "Porcini Ravioli",
-                    "description": "Pasta filled with Italian mushrooms with cream, nuts, serrano ham and truffle cream",
+                    "title": "Ravioli mit Steinpilzen",
+                    "description": "Gefüllte Pasta mit italienischen Pilzen, Sahne, Nüssen, Serranoschinken und Trüffelcreme",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
-                    "title": "Ricotta and Spinach Ravioli with Shrimp",
-                    "description": "Pasta filled with ricotta and spinach with leek sauce, homemade tomato, cream and shrimp",
+                    "title": "Ravioli mit Ricotta, Spinat und Garnelen",
+                    "description": "Gefüllte Pasta mit Ricotta und Spinat, Lauchsoße, Tomate, Sahne und Garnelen",
                     "price": 14.40,
                     "allergens": []
                 },
                 {
-                    "title": "Meat Tortellini with Pumpkin",
-                    "description": "Pasta filled with meat with pumpkin cream, Italian sausage and a little cream",
+                    "title": "Fleisch-Tortellini mit Kürbis",
+                    "description": "Gefüllte Pasta mit Fleisch, Kürbiscreme, italienischer Wurst und etwas Sahne",
                     "price": 13.90,
                     "allergens": []
                 }
@@ -260,261 +260,261 @@ export const english = {
             "name": "Risotti",
             "entries": [
                 {
-                    "title": "Seafood Risotto",
-                    "description": "Creamy rice with assorted seafood and cherry tomato",
+                    "title": "Meeresfrüchte-Risotto",
+                    "description": "Cremiger Reis mit verschiedenen Meeresfrüchten und Kirschtomaten",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Vegetable Risotto",
-                    "description": "Creamy rice with assorted vegetables, parmesan and a red pepper and beetroot cream",
+                    "title": "Gemüse-Risotto",
+                    "description": "Cremiger Reis mit verschiedenem Gemüse, Parmesan und einer Paprika-Rote-Bete-Creme",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
-                    "title": "Porcini Mushroom Risotto",
-                    "description": "Creamy rice prepared with Italian mushrooms and parmesan",
+                    "title": "Steinpilz-Risotto",
+                    "description": "Cremiger Reis mit italienischen Pilzen und Parmesan",
                     "price": 14.10,
                     "allergens": []
                 },
                 {
-                    "title": "Risotto with Mushrooms and Sausage",
-                    "description": "Creamy rice with mushrooms, Italian sausage, parmesan and parsley",
+                    "title": "Risotto mit Pilzen und Wurst",
+                    "description": "Cremiger Reis mit Champignons, italienischer Wurst, Parmesan und Petersilie",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
-                    "title": "Cod and Octopus Risotto",
-                    "description": "Creamy rice with octopus and cod",
+                    "title": "Risotto mit Kabeljau und Oktopus",
+                    "description": "Cremiger Reis mit Oktopus und Kabeljau",
                     "price": 17.60,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Meat",
+            "name": "Fleischgerichte",
             "entries": [
                 {
-                    "title": "Grilled Beef Tenderloin",
-                    "description": "Grilled beef tenderloin",
+                    "title": "Gegrilltes Rinderfilet",
+                    "description": "Gegrilltes Rinderfilet",
                     "price": 19.90,
                     "allergens": []
                 },
                 {
-                    "title": "Scallopini with Porcini",
-                    "description": "Tenderloin fillet with creamy Italian mushroom sauce",
+                    "title": "Scaloppine mit Steinpilzen",
+                    "description": "Filet mit cremiger italienischer Pilzsoße",
                     "price": 17.50,
                     "allergens": []
                 },
                 {
-                    "title": "Iberian Pork Cheeks",
-                    "description": "Iberian pork cheeks stewed with vegetables and red wine Tuscan-style",
+                    "title": "Geschmorte Iberico-Schweinebäckchen",
+                    "description": "Iberico-Schweinebäckchen geschmort mit Gemüse und Rotwein nach toskanischer Art",
                     "price": 21.50,
                     "allergens": []
                 },
                 {
-                    "title": "Chicken Cutlet",
-                    "description": "Breaded chicken fillet, juicy and crispy",
+                    "title": "Hähnchenschnitzel",
+                    "description": "Paniertes Hähnchenfilet, saftig und knusprig",
                     "price": 13.50,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Fish dishes",
+            "name": "Fischgerichte",
             "entries": [
                 {
-                    "title": "Sicilian Swordfish",
-                    "description": "Swordfish with capers, cherry tomatoes, olives and chili",
+                    "title": "Schwertfisch nach sizilianischer Art",
+                    "description": "Schwertfisch mit Kapern, Kirschtomaten, Oliven und Chili",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
-                    "title": "Stewed Cod",
-                    "description": "Cod with onions, homemade tomato sauce, shrimp and seafood",
+                    "title": "Geschmorter Kabeljau",
+                    "description": "Kabeljau mit Zwiebeln, hausgemachter Tomatensoße, Garnelen und Meeresfrüchten",
                     "price": 17.80,
                     "allergens": []
                 },
                 {
-                    "title": "Pistachio Salmon",
-                    "description": "Salmon with pistachio crust and a smooth pea sauce",
+                    "title": "Lachs mit Pistazienkruste",
+                    "description": "Lachs mit Pistazienkruste und einer milden Erbsensoße",
                     "price": 19.50,
                     "allergens": []
                 },
                 {
-                    "title": "Fried Cod with Red Pesto",
-                    "description": "Breaded cod with sundried tomato, pine nuts, basil and parmesan sauce",
+                    "title": "Frittierter Kabeljau mit rotem Pesto",
+                    "description": "Paniertes Kabeljaufilet mit getrockneter Tomate, Pinienkernen, Basilikum und Parmesan",
                     "price": 17.30,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Pizzas",
+            "name": "Pizza",
             "entries": [
                 {
-                    "title": "The Napoletana",
-                    "description": "White base, fior di latte mozzarella, friarielli, Italian sausage and smoked scamorza",
+                    "title": "Napoletana",
+                    "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Friarielli, italienische Wurst und geräucherter Scamorza",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
                     "title": "Toscana",
-                    "description": "White base, fior di latte mozzarella, pumpkin cream, Italian sausage and mushrooms",
+                    "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Kürbiscreme, italienische Wurst und Pilze",
                     "price": 14.40,
                     "allergens": []
                 },
                 {
                     "title": "Carbonara",
-                    "description": "White base, fior di latte mozzarella, egg cream, pecorino romano and crispy guanciale",
+                    "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Eiercreme, Pecorino Romano und knuspriger Guanciale",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
                     "title": "Mortazza",
-                    "description": "White base, fior di latte mozzarella, cherry tomatoes, burrata, pistachio sauce and mortadella",
+                    "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Kirschtomaten, Burrata, Pistaziensoße und Mortadella",
                     "price": 15.40,
                     "allergens": []
                 },
                 {
-                    "title": "Vegetarian",
-                    "description": "White base, zucchini cream, fior di latte mozzarella, red pepper, eggplant and mushrooms",
+                    "title": "Vegetarisch",
+                    "description": "Weiße Basis, Zucchinicreme, Fior-di-Latte-Mozzarella, rote Paprika, Auberginen und Pilze",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
-                    "title": "Four Cheeses",
-                    "description": "White base, gorgonzola sauce, fior di latte mozzarella and smoked scamorza",
+                    "title": "Vier Käse",
+                    "description": "Weiße Basis, Gorgonzolasoße, Fior-di-Latte-Mozzarella und geräucherter Scamorza",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
-                    "title": "Italian Focaccia",
-                    "description": "White base, ricotta cream, fior di latte mozzarella, cherry tomatoes, arugula, serrano ham and parmesan",
+                    "title": "Italienische Focaccia",
+                    "description": "Weiße Basis, Ricottacreme, Fior-di-Latte-Mozzarella, Kirschtomaten, Rucola, Serranoschinken und Parmesan",
                     "price": 12.90,
                     "allergens": []
                 },
                 {
                     "title": "Porcona",
-                    "description": "White base, fior di latte mozzarella, baked potato, bacon, guanciale and Italian sausage",
+                    "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Ofenkartoffel, Bacon, Guanciale und italienische Wurst",
                     "price": 13.20,
                     "allergens": []
                 },
                 {
-                    "title": "Arab Focaccia",
-                    "description": "Folded dough with oregano, extra virgin olive oil, lettuce, tomatoes, buffalo mozzarella and mortadella",
+                    "title": "Arabische Focaccia",
+                    "description": "Gefalteter Teig mit Oregano, extra nativem Olivenöl, Salat, Tomaten, Büffelmozzarella und Mortadella",
                     "price": 14.80,
                     "allergens": []
                 },
                 {
                     "title": "Calzone Mar i Prio",
-                    "description": "Ricotta, fior di latte mozzarella, spianata, mushrooms and fresh basil",
+                    "description": "Ricotta, Fior-di-Latte-Mozzarella, Spianata, Pilze und frisches Basilikum",
                     "price": 13.10,
                     "allergens": []
                 },
                 {
                     "title": "Margherita",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, fresh basil and oregano",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, frisches Basilikum und Oregano",
                     "price": 9.50,
                     "allergens": []
                 },
                 {
-                    "title": "Siciliana",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, confit cherry tomatoes, capers, anchovies and black olives",
+                    "title": "Sizilianisch",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, konfierte Kirschtomaten, Kapern, Sardellen und schwarze Oliven",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Calzone",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, cooked ham and mushrooms",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Kochschinken und Pilze",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Prosciutto",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella and cooked ham",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella und Kochschinken",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Four Seasons",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, cooked ham, olives, artichoke and mushrooms",
+                    "title": "Vier Jahreszeiten",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Kochschinken, Oliven, Artischocke und Pilze",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Funghi",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella and mushrooms",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella und Pilze",
                     "price": 10.90,
                     "allergens": []
                 },
                 {
                     "title": "Prosciutto e Funghi",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, cooked ham and mushrooms",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Kochschinken und Pilze",
                     "price": 11.90,
                     "allergens": []
                 },
                 {
-                    "title": "Seafood",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, tuna and assorted seafood",
+                    "title": "Meeresfrüchte",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Thunfisch und gemischte Meeresfrüchte",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
                     "title": "Diavola",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella and spicy spianata",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella und scharfe Spianata",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
-                    "title": "Shrimp",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella and shrimp",
+                    "title": "Gamberetti",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella und Garnelen",
                     "price": 12.20,
                     "allergens": []
                 },
                 {
-                    "title": "Tuna and Onion",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, tuna and onion",
+                    "title": "Thunfisch und Zwiebel",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Thunfisch und Zwiebel",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
                     "title": "Barbecue",
-                    "description": "San Marzano tomato sauce, fior di latte mozzarella, bacon, minced meat, onion and barbecue sauce",
+                    "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Bacon, Hackfleisch, Zwiebel und Barbecuesoße",
                     "price": 12.50,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Infants menu",
+            "name": "Menü für Kleinkinder",
             "entries": [
                 {
-                    "title": "Spaghetti with Tomato or Bolognese",
+                    "title": "Spaghetti mit Tomate oder Bolognese",
                     "description": null,
                     "price": 10.30,
                     "allergens": []
                 },
                 {
-                    "title": "Croquette with Fries",
+                    "title": "Kroketten mit Pommes",
                     "description": null,
                     "price": 10.30,
                     "allergens": []
                 },
                 {
-                    "title": "Margherita or Ham Pizza",
+                    "title": "Pizza Margherita oder Schinken",
                     "description": null,
                     "price": 10.30,
                     "allergens": []
                 },
                 {
-                    "title": "Breaded Chicken with Fries",
+                    "title": "Paniertes Hähnchen mit Pommes",
                     "description": null,
                     "price": 10.40,
                     "allergens": []
                 },
                 {
-                    "title": "Breaded Fish with Fries",
+                    "title": "Paniertes Fischfilet mit Pommes",
                     "description": null,
                     "price": 10.50,
                     "allergens": []
@@ -522,23 +522,23 @@ export const english = {
             ]
         },
         {
-            "name": "Desserts",
+            "name": "Dessert",
             "entries": [
                 {
                     "title": "Panna Cotta",
-                    "description": "With chocolate sauce, pistachio sauce or red fruit sauce",
+                    "description": "Mit Schokoladensoße, Pistaziensoße oder roten Früchten",
                     "price": 5.10,
                     "allergens": []
                 },
                 {
-                    "title": "Chocolate Mousse",
+                    "title": "Schokoladenmousse",
                     "description": null,
                     "price": 5.30,
                     "allergens": []
                 },
                 {
-                    "title": "Cheesecake",
-                    "description": "With chocolate sauce, pistachio or red fruits",
+                    "title": "Käsekuchen",
+                    "description": "Mit Schokoladensoße, Pistazie oder roten Früchten",
                     "price": 5.50,
                     "allergens": []
                 },
@@ -549,25 +549,25 @@ export const english = {
                     "allergens": []
                 },
                 {
-                    "title": "Chocolate Cake",
+                    "title": "Schokoladenkuchen",
                     "description": null,
                     "price": 5.20,
                     "allergens": []
                 },
                 {
-                    "title": "Chocolate Brownie with Ice Cream",
+                    "title": "Schokoladenbrownie mit Eis",
                     "description": null,
                     "price": 5.90,
                     "allergens": []
                 },
                 {
-                    "title": "Ice Cream (1 scoop)",
+                    "title": "Eiscreme (1 Kugel)",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Ice Cream (2 scoops)",
+                    "title": "Eiscreme (2 Kugeln)",
                     "description": null,
                     "price": 5.80,
                     "allergens": []
@@ -575,10 +575,10 @@ export const english = {
             ]
         },
         {
-            "name": "White Wines",
+            "name": "Weißwein",
             "entries": [
                 {
-                    "title": "Gewurztraminer Alto Adige doc",
+                    "title": "Gewürztraminer Alto Adige doc",
                     "description": null,
                     "price": 37.10,
                     "allergens": []
@@ -608,7 +608,7 @@ export const english = {
                     "allergens": []
                 },
                 {
-                    "title": "Castillo de Miraflores Verdejo de Rueda Semi-Sweet",
+                    "title": "Castillo de Miraflores Verdejo Rueda halbtrocken",
                     "description": null,
                     "price": 19.90,
                     "allergens": []
@@ -616,7 +616,7 @@ export const english = {
             ]
         },
         {
-            "name": "Red Wines",
+            "name": "Rotwein",
             "entries": [
                 {
                     "title": "Azpilicueta Crianza Rioja",
@@ -625,7 +625,7 @@ export const english = {
                     "allergens": []
                 },
                 {
-                    "title": "Pata Negra Rioja Oak-Aged",
+                    "title": "Pata Negra Rioja Roble",
                     "description": null,
                     "price": 14.00,
                     "allergens": []
@@ -656,14 +656,14 @@ export const english = {
                 },
                 {
                     "title": "Lambrusco Reggiano doc Ca’ de Medici",
-                    "description": "Sparkling",
+                    "description": "Schaumwein",
                     "price": 15.90,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Rose",
+            "name": "Roséwein",
             "entries": [
                 {
                     "title": "Primitivo Puglia igt Gabbia d’Oro",
@@ -673,13 +673,13 @@ export const english = {
                 },
                 {
                     "title": "Lambrusco doc Remigio Premium",
-                    "description": "Sparkling",
+                    "description": "Schaumwein",
                     "price": 15.90,
                     "allergens": []
                 },
                 {
-                    "title": "Bacio di Luna Blanc de Blancs Spumante",
-                    "description": "Sparkling",
+                    "title": "Bacio di Luna Blanc de Blanc Spumante",
+                    "description": "Schaumwein",
                     "price": 14.00,
                     "allergens": []
                 },
@@ -690,7 +690,7 @@ export const english = {
                     "allergens": []
                 },
                 {
-                    "title": "Gheller Prosecco Valdobbiadene Superiore docg",
+                    "title": "Gheller Prosecco Valdobbiadene Sup. docg",
                     "description": null,
                     "price": 25.10,
                     "allergens": []

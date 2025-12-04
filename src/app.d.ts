@@ -27,6 +27,10 @@ declare global {
 		color: string;
 		colordark: string;
 	}
+	type LanguageOption = {
+		displayName: string;
+		value: string;
+	}
 	interface Dictionary<T> {
 		[Key: number]: T;
 	}
