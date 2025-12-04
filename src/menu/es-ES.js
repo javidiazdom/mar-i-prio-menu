@@ -17,7 +17,7 @@ export const spanish = {
                 },
                 {
                     "title": "Insalata César",
-                    "description": "Lechuga fresca,tomate cherry,tomate seco,huevo,pollo crujiente, pan tostado,fina lonchas de parmesano y nuestra salsa Cesar casera",
+                    "description": "Lechuga fresca,tomate cherry, tomate seco, huevo, pollo crujiente, pan tostado,fina lonchas de parmesano y nuestra salsa Cesar casera",
                     "price": 12.50,
                     "allergens": []
                 },
@@ -245,7 +245,7 @@ export const spanish = {
             ]
         },
         {
-            "name": "Risotti",
+            "name": "Risotto",
             "entries": [
                 {
                     "title": "Risotto ai Frutti di Mare",
@@ -378,7 +378,7 @@ export const spanish = {
                 },
                 {
                     "title": "Focaccia Italiana",
-                    "description": "Base blanca, crema de requesón, mozzarella fior di latte, tomate cherry, rucola, jamón serrano y parmesano",
+                    "description": "Base blanca, crema de requesón, mozzarella fior di latte, tomate cherry, rúcula, jamón serrano y parmesano",
                     "price": 12.90,
                     "allergens": []
                 },
@@ -408,7 +408,7 @@ export const spanish = {
                 },
                 {
                     "title": "Siciliana",
-                    "description": "Salsa tomate San Marzano, mozzarella fior di latte, tomate cherry confit, alcaparras, anchoas y aceitunas negras",
+                    "description": "Salsa tomate San Marzano, mozzarella fior di latte, tomate cherry confitado, alcaparras, anchoas y aceitunas negras",
                     "price": 12.40,
                     "allergens": []
                 },

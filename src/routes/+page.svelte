@@ -185,7 +185,7 @@
 
     .navigation {
         position: sticky;
-        top: 0;
+        top: 0.1rem;
         display: flex;
         height: 2.5rem;
         gap: 0.5rem;
