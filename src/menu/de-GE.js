@@ -22,18 +22,6 @@ export const german = {
                     "allergens": []
                 },
                 {
-                    "title": "Caesar Salat",
-                    "description": "Caesar-Salat mit panierten Freiland-Hähnchenstreifen, Burratakäse und Feldsalatmischung",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
-                    "title": "Caesar Salat",
-                    "description": "Caesar-Salat mit panierten Freiland-Hähnchenstreifen, Burratakäse und Feldsalatmischung",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
                     "title": "Gemischter Salat",
                     "description": "Salat, Gurke, Tomatenscheiben, Mais, Karotte, Thunfisch, Zwiebel, Ei und eine Scheibe Parmesan",
                     "price": 11.50,
@@ -203,7 +191,7 @@ export const german = {
                 {
                     "title": "Tagliatelle mit Zucchini und Garnelen",
                     "description": "Tagliatelle mit Zucchinisoße, Garnelen, Petersilie und Sahne",
-                    "price": null,
+                    "price": 13.50,
                     "allergens": []
                 },
                 {

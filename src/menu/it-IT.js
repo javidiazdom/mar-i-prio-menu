@@ -22,18 +22,6 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Insalata César",
-                    "description": "Insalata César preparata con strisce di pollo ruspante impanato, burrata e mix di songino",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
-                    "title": "Insalata César",
-                    "description": "Insalata César preparata con strisce di pollo ruspante impanato, burrata e mix di songino",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
                     "title": "Insalata Mista",
                     "description": "Lattuga, cetriolo, fette di pomodoro, mais, carota, tonno, cipolla, uovo e una fetta di parmigiano",
                     "price": 11.50,
@@ -203,7 +191,7 @@ export const italian = {
                 {
                     "title": "Tagliatelle con Zucchine e Gamberi",
                     "description": "Tagliatelle con zucchine, gamberi, prezzemolo e panna",
-                    "price": null,
+                    "price": 13.50,
                     "allergens": []
                 },
                 {

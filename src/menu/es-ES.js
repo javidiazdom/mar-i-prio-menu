@@ -22,18 +22,6 @@ export const spanish = {
                     "allergens": []
                 },
                 {
-                    "title": "Insalata césar",
-                    "description": "Ensalada césar hecha con tiras de pollo de corral empanado, queso burata y mix de canónigos",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
-                    "title": "Insalata césar",
-                    "description": "Ensalada césar hecha con tiras de pollo de corral empanado, queso burata y mix de canónigos",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
                     "title": "Insalata Mista",
                     "description": "Lechuga, pepino, rodajas de tomates, millo, zanahoria, atún, cebolla, huevo y loncha de parmesano",
                     "price": 11.50,
@@ -203,7 +191,7 @@ export const spanish = {
                 {
                     "title": "Tagliatelle con Zucchine e Gamberi",
                     "description": "Tallarines con calabacín, gambas, perejil y nata",
-                    "price": null,
+                    "price": 13.50,
                     "allergens": []
                 },
                 {

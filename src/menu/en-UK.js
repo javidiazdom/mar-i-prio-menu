@@ -22,18 +22,6 @@ export const english = {
                     "allergens": []
                 },
                 {
-                    "title": "Caesar Salad",
-                    "description": "Caesar salad made with breaded free-range chicken strips, burrata cheese and a lamb’s lettuce mix",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
-                    "title": "Caesar Salad",
-                    "description": "Caesar salad made with breaded free-range chicken strips, burrata cheese and a lamb’s lettuce mix",
-                    "price": 20,
-                    "allergens": []
-                },
-                {
                     "title": "Mixed Salad",
                     "description": "Lettuce, cucumber, tomato slices, corn, carrot, tuna, onion, egg and a slice of parmesan",
                     "price": 11.50,
@@ -203,7 +191,7 @@ export const english = {
                 {
                     "title": "Tagliatelle with Zucchini and Shrimp",
                     "description": "Tagliatelle with zucchini sauce, shrimp, parsley and cream",
-                    "price": null,
+                    "price": 13.50,
                     "allergens": []
                 },
                 {
