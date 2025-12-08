@@ -349,7 +349,7 @@ export const italian = {
                 {
                     "title": "Toscana",
                     "description": "Base bianca, mozzarella fior di latte, crema di zucca, salsiccia italiana e funghi",
-                    "price": 14.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -361,7 +361,7 @@ export const italian = {
                 {
                     "title": "Mortazza",
                     "description": "Base bianca, mozzarella fior di latte, pomodorini, burrata, salsa al pistacchio e mortadella",
-                    "price": 15.40,
+                    "price": 14.90,
                     "allergens": []
                 },
                 {
@@ -391,7 +391,7 @@ export const italian = {
                 {
                     "title": "Focaccia Araba",
                     "description": "Impasto ripiegato con origano, olio extravergine d'oliva, lattuga, pomodoro, mozzarella di bufala e mortadella",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
@@ -480,31 +480,31 @@ export const italian = {
                 {
                     "title": "Spaghetti al Pomodoro o alla Bolognese",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Crocchette con Patatine Fritte",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Pizza Margherita o Prosciutto",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Pollo Impanato con Patatine Fritte",
                     "description": null,
-                    "price": 10.40,
+                    "price": 10.30,
                     "allergens": []
                 },
                 {
                     "title": "Pesce Impanato con Patatine Fritte",
                     "description": null,
-                    "price": 10.50,
+                    "price": 10.30,
                     "allergens": []
                 }
             ]
@@ -533,13 +533,13 @@ export const italian = {
                 {
                     "title": "Tiramisù",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {
                     "title": "Torta al Cioccolato",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {

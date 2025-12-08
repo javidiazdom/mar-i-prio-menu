@@ -349,7 +349,7 @@ export const german = {
                 {
                     "title": "Toscana",
                     "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Kürbiscreme, italienische Wurst und Pilze",
-                    "price": 14.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -361,7 +361,7 @@ export const german = {
                 {
                     "title": "Mortazza",
                     "description": "Weiße Basis, Fior-di-Latte-Mozzarella, Kirschtomaten, Burrata, Pistaziensoße und Mortadella",
-                    "price": 15.40,
+                    "price": 14.90,
                     "allergens": []
                 },
                 {
@@ -391,7 +391,7 @@ export const german = {
                 {
                     "title": "Arabische Focaccia",
                     "description": "Gefalteter Teig mit Oregano, extra nativem Olivenöl, Salat, Tomaten, Büffelmozzarella und Mortadella",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
@@ -480,31 +480,31 @@ export const german = {
                 {
                     "title": "Spaghetti mit Tomate oder Bolognese",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Kroketten mit Pommes",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Pizza Margherita oder Schinken",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Paniertes Hähnchen mit Pommes",
                     "description": null,
-                    "price": 10.40,
+                    "price": 10.30,
                     "allergens": []
                 },
                 {
                     "title": "Paniertes Fischfilet mit Pommes",
                     "description": null,
-                    "price": 10.50,
+                    "price": 10.30,
                     "allergens": []
                 }
             ]
@@ -533,13 +533,13 @@ export const german = {
                 {
                     "title": "Tiramisù",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {
                     "title": "Schokoladenkuchen",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {

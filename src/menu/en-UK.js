@@ -349,7 +349,7 @@ export const english = {
                 {
                     "title": "Toscana",
                     "description": "White base, fior di latte mozzarella, pumpkin cream, Italian sausage and mushrooms",
-                    "price": 14.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -361,7 +361,7 @@ export const english = {
                 {
                     "title": "Mortazza",
                     "description": "White base, fior di latte mozzarella, cherry tomatoes, burrata, pistachio sauce and mortadella",
-                    "price": 15.40,
+                    "price": 14.90,
                     "allergens": []
                 },
                 {
@@ -391,7 +391,7 @@ export const english = {
                 {
                     "title": "Arab Focaccia",
                     "description": "Folded dough with oregano, extra virgin olive oil, lettuce, tomatoes, buffalo mozzarella and mortadella",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
@@ -480,31 +480,31 @@ export const english = {
                 {
                     "title": "Spaghetti with Tomato or Bolognese",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Croquette with Fries",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Margherita or Ham Pizza",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Breaded Chicken with Fries",
                     "description": null,
-                    "price": 10.40,
+                    "price": 10.20,
                     "allergens": []
                 },
                 {
                     "title": "Breaded Fish with Fries",
                     "description": null,
-                    "price": 10.50,
+                    "price": 10.20,
                     "allergens": []
                 }
             ]
@@ -533,13 +533,13 @@ export const english = {
                 {
                     "title": "Tiramisù",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {
                     "title": "Chocolate Cake",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {

@@ -78,19 +78,19 @@ export const spanish = {
                 {
                     "title": "Pan Normal",
                     "description": null,
-                    "price": 3.50,
+                    "price": 3.40,
                     "allergens": []
                 },
                 {
                     "title": "Pan con Ajo",
                     "description": null,
-                    "price": 3.90,
+                    "price": 3.80,
                     "allergens": []
                 },
                 {
                     "title": "Pan con Ajo y Queso",
                     "description": null,
-                    "price": 4.60,
+                    "price": 4.50,
                     "allergens": []
                 },
                 {
@@ -102,13 +102,13 @@ export const spanish = {
                 {
                     "title": "Focaccia Bicolore",
                     "description": "Base pizza con tomate y salsa de ajo",
-                    "price": 6.10,
+                    "price": 5.50,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Tricolore",
                     "description": "Base pizza con tomate, salsa de ajo y mozzarella fior di latte",
-                    "price": 6.70,
+                    "price": 5.70,
                     "allergens": []
                 }
             ]
@@ -143,7 +143,7 @@ export const spanish = {
                 {
                     "title": "Rigatoni alla Puttanesca",
                     "description": "Macarrones con anchoas, alcaparras, aceitunas y salsa de tomate",
-                    "price": 13.30,
+                    "price": 12.30,
                     "allergens": []
                 },
                 {
@@ -159,9 +159,9 @@ export const spanish = {
                     "allergens": []
                 },
                 {
-                    "title": "Espagueti con Verdure",
+                    "title": "Spaghetti con Verdure",
                     "description": "Espaguetis salteados con verduras variadas y salsa de pimientos rojos y remolacha",
-                    "price": 13.20,
+                    "price": 12.20,
                     "allergens": []
                 },
                 {
@@ -173,31 +173,31 @@ export const spanish = {
                 {
                     "title": "Tagliatelle al Pesto",
                     "description": "Tallarines con salsa de albahaca, piñones, parmesano y aceite virgen extra",
-                    "price": 12.40,
+                    "price": 12.50,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri all’Amatriciana",
                     "description": "Pasta corta con salsa de tomate casera y guanciale crujiente",
-                    "price": 13.90,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri alla Norma",
                     "description": "Pasta con berenjenas, salsa de tomate, albahaca y queso scamorza ahumado",
-                    "price": 13.50,
+                    "price": 12.50,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle con Zucchine e Gamberi",
                     "description": "Tallarines con calabacín, gambas, perejil y nata",
-                    "price": 13.50,
+                    "price": 13.00,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle ai Funghi Porcini e Tartufo",
                     "description": "Tallarines con setas italianas y crema de trufa",
-                    "price": 13.40,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
@@ -208,7 +208,7 @@ export const spanish = {
                 },
                 {
                     "title": "Fusilli al Ferretto ai Frutti di Mare",
-                    "description": "Pasta artesanal con mariscos variados en salsa marinera",
+                    "description": "Pasta artesanal con mariscos variados en salsa marinera\n\n. *pruebalo con tinta de calamar* (+1€)",
                     "price": 16.90,
                     "allergens": []
                 },
@@ -233,13 +233,13 @@ export const spanish = {
                 {
                     "title": "Ravioli Ricotta e Spinaci con Gambas",
                     "description": "Pasta rellena de ricotta y espinaca con salsa de puerros, tomate, nata y gambas",
-                    "price": 14.40,
+                    "price": 14.00,
                     "allergens": []
                 },
                 {
                     "title": "Tortellini di Carne Zucca",
                     "description": "Pasta rellena de carne con crema de calabaza, salchicha italiana y nata",
-                    "price": 13.90,
+                    "price": 13.50,
                     "allergens": []
                 }
             ]
@@ -249,8 +249,8 @@ export const spanish = {
             "entries": [
                 {
                     "title": "Risotto ai Frutti di Mare",
-                    "description": "Arroz cremoso con mariscos variados y tomate cherry",
-                    "price": 16.90,
+                    "description": "Arroz cremoso con mariscos variados y tomate cherry.\n\n*pruébalo con tinta de calamar* (+1€)",
+                    "price": 16.00,
                     "allergens": []
                 },
                 {
@@ -284,26 +284,26 @@ export const spanish = {
             "entries": [
                 {
                     "title": "Filetto alla Griglia",
-                    "description": "Solomillo de vacuno a la plancha",
-                    "price": 19.90,
+                    "description": "Solomillo de vacuno a la plancha.\n\n*Pídelo con salsa de pimienta verde, de gorgonzola o setas italiana (+2€) ",
+                    "price": 18.90,
                     "allergens": []
                 },
                 {
                     "title": "Scaloppine ai Funghi Porcini",
-                    "description": "Filete de solomillo con salsa cremosa de setas italianas",
+                    "description": "Filete de solomillo con salsa cremosa de setas italianas.\n\n*Pídelo con salsa de gorgonzola",
                     "price": 17.50,
                     "allergens": []
                 },
                 {
                     "title": "Guancia di Maiale Iberico di Bellota",
                     "description": "Carrillera de cerdo ibérico estofada con verduras y vino tinto al estilo toscano",
-                    "price": 21.50,
+                    "price": 19.90,
                     "allergens": []
                 },
                 {
                     "title": "Cotoletta di Pollo",
                     "description": "Filete de pollo empanado, jugoso y crujiente",
-                    "price": 13.50,
+                    "price": 12.50,
                     "allergens": []
                 }
             ]
@@ -314,7 +314,7 @@ export const spanish = {
                 {
                     "title": "Pesce Spada alla Siciliana",
                     "description": "Pez espada con alcaparras, tomate cherry, aceitunas y guindilla",
-                    "price": 14.50,
+                    "price": 15.10,
                     "allergens": []
                 },
                 {
@@ -326,12 +326,12 @@ export const spanish = {
                 {
                     "title": "Salmone al Pistacchio",
                     "description": "Salmón con costra de pistachos y salsa suave de guisante",
-                    "price": 19.50,
+                    "price": 18.50,
                     "allergens": []
                 },
                 {
                     "title": "Baccalá Fritto con Pesto Rosso",
-                    "description": "Taco de bacalao empanado con salsa de tomate seco, piñones, albahaca y parmesano",
+                    "description": "Taco de bacalao empanado con salsa de tomate seco, piñones, albahaca y parmesano. \n\n*Elige tu guarnición entre papas fritas, al horno ensalada o arroz blanco.",
                     "price": 17.30,
                     "allergens": []
                 }
@@ -349,7 +349,7 @@ export const spanish = {
                 {
                     "title": "Toscana",
                     "description": "Base blanca, mozzarella fior di latte, crema de calabaza, salchicha italiana y setas",
-                    "price": 14.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -361,7 +361,7 @@ export const spanish = {
                 {
                     "title": "Mortazza",
                     "description": "Base blanca, mozzarella fior di latte, tomate cherry, burrata, salsa de pistacho y mortadella",
-                    "price": 15.40,
+                    "price": 14.90,
                     "allergens": []
                 },
                 {
@@ -391,7 +391,7 @@ export const spanish = {
                 {
                     "title": "Focaccia Araba",
                     "description": "Masa doblada con orégano, aceite virgen extra, lechuga, tomate, mozzarella de búfala y mortadella",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
@@ -480,31 +480,31 @@ export const spanish = {
                 {
                     "title": "Espaguetis Tomate o Boloñesa",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Croqué con Papas Fritas",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Pizza Margherita o de Jamón",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.00,
                     "allergens": []
                 },
                 {
                     "title": "Pollo Empanado con Papas Fritas",
                     "description": null,
-                    "price": 10.40,
+                    "price": 10.20,
                     "allergens": []
                 },
                 {
                     "title": "Pescado Empanado con Papas Fritas",
                     "description": null,
-                    "price": 10.50,
+                    "price": 10.20,
                     "allergens": []
                 }
             ]
@@ -533,13 +533,13 @@ export const spanish = {
                 {
                     "title": "Tiramisù",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {
                     "title": "Tarta de Chocolate",
                     "description": null,
-                    "price": 5.20,
+                    "price": 5.30,
                     "allergens": []
                 },
                 {
