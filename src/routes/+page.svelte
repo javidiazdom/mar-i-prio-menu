@@ -226,6 +226,7 @@
             margin: 1rem .3rem 1.2rem 0rem;
             text-align: left;
             font-size: 1.15rem;
+            white-space: pre-line
         }
     }
 

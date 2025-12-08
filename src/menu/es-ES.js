@@ -208,7 +208,7 @@ export const spanish = {
                 },
                 {
                     "title": "Fusilli al Ferretto ai Frutti di Mare",
-                    "description": "Pasta artesanal con mariscos variados en salsa marinera<br/><br/>. *pruebalo con tinta de calamar* (+1€)",
+                    "description": "Pasta artesanal con mariscos variados en salsa marinera.\n\n *pruebalo con tinta de calamar* (+1€)",
                     "price": 16.90,
                     "allergens": []
                 },
@@ -249,7 +249,7 @@ export const spanish = {
             "entries": [
                 {
                     "title": "Risotto ai Frutti di Mare",
-                    "description": "Arroz cremoso con mariscos variados y tomate cherry.<br/><br/>*pruébalo con tinta de calamar* (+1€)",
+                    "description": "Arroz cremoso con mariscos variados y tomate cherry.\n\n*pruébalo con tinta de calamar* (+1€)",
                     "price": 16.00,
                     "allergens": []
                 },
@@ -284,13 +284,13 @@ export const spanish = {
             "entries": [
                 {
                     "title": "Filetto alla Griglia",
-                    "description": "Solomillo de vacuno a la plancha.<br/><br/>*Pídelo con salsa de pimienta verde, de gorgonzola o setas italiana (+2€) ",
+                    "description": "Solomillo de vacuno a la plancha.\n\n*Pídelo con salsa de pimienta verde, de gorgonzola o setas italiana (+2€) ",
                     "price": 18.90,
                     "allergens": []
                 },
                 {
                     "title": "Scaloppine ai Funghi Porcini",
-                    "description": "Filete de solomillo con salsa cremosa de setas italianas.<br/><br/>*Pídelo con salsa de gorgonzola",
+                    "description": "Filete de solomillo con salsa cremosa de setas italianas.\n\n*Pídelo con salsa de gorgonzola",
                     "price": 17.50,
                     "allergens": []
                 },
@@ -331,7 +331,7 @@ export const spanish = {
                 },
                 {
                     "title": "Baccalá Fritto con Pesto Rosso",
-                    "description": "Taco de bacalao empanado con salsa de tomate seco, piñones, albahaca y parmesano. <br/><br/>*Elige tu guarnición entre papas fritas, al horno ensalada o arroz blanco.",
+                    "description": "Taco de bacalao empanado con salsa de tomate seco, piñones, albahaca y parmesano. \n\n*Elige tu guarnición entre papas fritas, al horno ensalada o arroz blanco.",
                     "price": 17.30,
                     "allergens": []
                 }
