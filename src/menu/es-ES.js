@@ -690,6 +690,249 @@ export const spanish = {
                     "allergens": []
                 }
             ]
+        },
+        {
+            "name": "Café",
+            "entries": [
+                {
+                    "title": "Espresso",
+                    "description": null,
+                    "price": 1.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Espresso largo",
+                    "description": null,
+                    "price": 1.60,
+                    "allergens": []
+                },
+                {
+                    "title": "Cortado corto",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Cortado largo",
+                    "description": null,
+                    "price": 2.10,
+                    "allergens": []
+                },
+                {
+                    "title": "Bon bon corto",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Bon bon largo",
+                    "description": null,
+                    "price": 2.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Leche leche",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Capuccino",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Carajillo",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Barraquito",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Infusiones",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Cola-cao",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Refrescos",
+            "entries": [
+                {
+                    "title": "Pepsi",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Pepsi zero",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Seven up",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes limón",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes naranja",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes tónica",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Clipper fresa",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton limón",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton mango-maracuyá",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton mango-piña",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Nestea mango-piña",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Appletiser",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Red Bull",
+                    "description": null,
+                    "price": 3.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Zumo pera-piña",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Zumo mango",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Zumo melocotón",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Cervezas y alcohol",
+            "entries": [
+                {
+                    "title": "Tropical sin filtrar",
+                    "description": null,
+                    "price": 3.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical limón",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada especial",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada especial tostada",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada 0,0 especial",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Daura Damm sin gluten",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Victoria 0,0 tostada sin gluten",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Chupito",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Copa licor",
+                    "description": null,
+                    "price": 5.00,
+                    "allergens": []
+                }
+            ]
         }
     ],
     "allergens": {

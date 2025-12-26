@@ -690,6 +690,249 @@ export const italian = {
                     "allergens": []
                 }
             ]
+        },
+        {
+            "name": "Caffè",
+            "entries": [
+                {
+                    "title": "Espresso",
+                    "description": null,
+                    "price": 1.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Espresso Lungo",
+                    "description": null,
+                    "price": 1.60,
+                    "allergens": []
+                },
+                {
+                    "title": "Latte Macchiato piccolo",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Latte Macchiato grande",
+                    "description": null,
+                    "price": 2.10,
+                    "allergens": []
+                },
+                {
+                    "title": "Caffè Bonbon piccolo",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Caffè Bonbon grande",
+                    "description": null,
+                    "price": 2.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Caffè con latte e latte condensato",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Cappuccino",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Caffè corretto",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Barraquito",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Tè",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Cioccolata calda",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Bevande Analcoliche",
+            "entries": [
+                {
+                    "title": "Pepsi",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Pepsi Zero",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "7 Up",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes Limone",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes Arancia",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes Acqua Tonica",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Clipper Fragola",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton Limone",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton Mango e Frutto della Passione",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton Mango e Ananas",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Nestea Mango e Ananas",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Appletiser",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Red Bull",
+                    "description": null,
+                    "price": 3.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Succo Ananas e Pera",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Succo di Mango",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Succo di Pesca",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Birre e Alcolici",
+            "entries": [
+                {
+                    "title": "Tropical non filtrata",
+                    "description": null,
+                    "price": 3.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical al Limone",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada Speciale",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada Speciale Tostata",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada Speciale 0,0",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Daura Damm senza glutine",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Victoria 0,0 tostata senza glutine",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Shot di liquore",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Bicchiere di liquore",
+                    "description": null,
+                    "price": 5.00,
+                    "allergens": []
+                }
+            ]
         }
     ]
 }

@@ -690,6 +690,249 @@ export const english = {
                     "allergens": []
                 }
             ]
+        },
+        {
+            "name": "Coffee",
+            "entries": [
+                {
+                    "title": "Espresso",
+                    "description": null,
+                    "price": 1.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Espresso Lungo",
+                    "description": null,
+                    "price": 1.60,
+                    "allergens": []
+                },
+                {
+                    "title": "Latte macchiato short",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Latte macchiato tall",
+                    "description": null,
+                    "price": 2.10,
+                    "allergens": []
+                },
+                {
+                    "title": "Confection coffee short",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Confection coffee tall",
+                    "description": null,
+                    "price": 2.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Coffee with Milk and Condensed Milk",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Cappuccino",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Coffee with Liquor",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Barraquito",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Teas",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Chocolate",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Soda",
+            "entries": [
+                {
+                    "title": "Pepsi",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Pepsi zero",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Seven up",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lemon schweppes",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Orange schweppes",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes tonic water",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Strawberry Clipper",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lemon lipton",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Mango-passion fruit lipton",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Mango-pinneaple lipton",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Mango-pinneaple nestea",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Appletiser",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Red Bull",
+                    "description": null,
+                    "price": 3.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Pinneaple-pear juice",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Mango juice",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Peach juice",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Beers and alcohol",
+            "entries": [
+                {
+                    "title": "Tropical unfiltered",
+                    "description": null,
+                    "price": 3.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lemon Tropical",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Special dorada",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Toasted special dorada",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Special 0,0 Dorada",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Daura Damm glutten free",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Victoria 0,0 toasted gluten free",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Liquor Shot",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Liquor cup",
+                    "description": null,
+                    "price": 5.00,
+                    "allergens": []
+                }
+            ]
         }
     ],
     "allergens": {

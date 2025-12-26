@@ -690,7 +690,251 @@ export const german = {
                     "allergens": []
                 }
             ]
+        },
+        {
+            "name": "Kaffee",
+            "entries": [
+                {
+                    "title": "Espresso",
+                    "description": null,
+                    "price": 1.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Espresso Lungo",
+                    "description": null,
+                    "price": 1.60,
+                    "allergens": []
+                },
+                {
+                    "title": "Latte Macchiato klein",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Latte Macchiato groß",
+                    "description": null,
+                    "price": 2.10,
+                    "allergens": []
+                },
+                {
+                    "title": "Bonbon-Kaffee klein",
+                    "description": null,
+                    "price": 1.80,
+                    "allergens": []
+                },
+                {
+                    "title": "Bonbon-Kaffee groß",
+                    "description": null,
+                    "price": 2.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Kaffee mit Milch und Kondensmilch",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Cappuccino",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Kaffee mit Likör",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Barraquito",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Tee",
+                    "description": null,
+                    "price": 2.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Heiße Schokolade",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Erfrischungsgetränke",
+            "entries": [
+                {
+                    "title": "Pepsi",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Pepsi Zero",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "7 Up",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes Zitrone",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes Orange",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Schweppes Tonic Water",
+                    "description": null,
+                    "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Clipper Erdbeere",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton Zitrone",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton Mango-Maracuja",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lipton Mango-Ananas",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Nestea Mango-Ananas",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Appletiser",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Red Bull",
+                    "description": null,
+                    "price": 3.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Ananas-Birnen-Saft",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Mangosaft",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Pfirsichsaft",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                }
+            ]
+        },
+        {
+            "name": "Biere und Alkohol",
+            "entries": [
+                {
+                    "title": "Tropical ungefiltert",
+                    "description": null,
+                    "price": 3.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Tropical Zitrone",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada Spezial",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada Spezial geröstet",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Dorada Spezial 0,0",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Daura Damm glutenfrei",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Victoria 0,0 geröstet glutenfrei",
+                    "description": null,
+                    "price": 3.00,
+                    "allergens": []
+                },
+                {
+                    "title": "Likör Shot",
+                    "description": null,
+                    "price": 2.50,
+                    "allergens": []
+                },
+                {
+                    "title": "Likörglas",
+                    "description": null,
+                    "price": 5.00,
+                    "allergens": []
+                }
+            ]
         }
+
     ],
     "allergens": {
         "1": {
