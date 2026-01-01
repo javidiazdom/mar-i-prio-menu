@@ -1,532 +1,532 @@
-export const italian = {
+export const french = {
     "categories": [
         {
-            "name": "Antipasti",
+            "name": "Entrées",
             "entries": [
                 {
-                    "title": "Insalata Caprese",
-                    "description": "La nostra insalata più classica. Succose fette di pomodoro, cremosa mozzarella di bufala e foglie di basilico con olio extravergine d'oliva",
+                    "title": "Salade Caprese",
+                    "description": "Notre salade la plus classique. Tranches juteuses de tomates, mozzarella di bufala crémeuse et feuilles de basilic, arrosées d’huile d’olive extra vierge",
                     "price": 11.50,
                     "allergens": []
                 },
                 {
-                    "title": "Insalata di Burrata",
-                    "description": "Cremosa burrata su un letto di rucola e lattuga con pomodorini e bacon caramellato croccante, condita con salsa ai frutti rossi",
+                    "title": "Salade Burrata",
+                    "description": "Burrata crémeuse sur un lit de roquette et de laitue avec des tomates cerises et du bacon caramélisé croustillant, le tout accompagné d’une sauce aux fruits rouges",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
-                    "title": "Insalata César",
-                    "description": "Lattuga fresca, pomodorini, pomodoro secco, uovo, pollo croccante, pane tostato, sottili fette di parmigiano e la nostra salsa César fatta in casa",
+                    "title": "Salade César",
+                    "description": "Laitue fraîche, tomates cerises, tomates séchées, œuf, poulet croustillant, pain grillé, fines tranches de parmesan et notre sauce César maison",
                     "price": 12.50,
                     "allergens": []
                 },
                 {
-                    "title": "Insalata Mista",
-                    "description": "Lattuga, cetriolo, fette di pomodoro, mais, carota, tonno, cipolla, uovo e una fetta di parmigiano",
+                    "title": "Salade Mixte",
+                    "description": "Laitue, concombre, tranches de tomate, maïs, carotte, thon, oignon, œuf et une tranche de parmesan",
                     "price": 11.50,
                     "allergens": []
                 },
                 {
                     "title": "Vitello Tonnato",
-                    "description": "Fettine sottili di vitello arrosto con capperi e salsa al tonno",
+                    "description": "Fines tranches de veau rôti, câpres et sauce au thon",
                     "price": 12.90,
                     "allergens": []
                 },
                 {
-                    "title": "Carpaccio di Manzo",
-                    "description": "Fettine sottili di filetto di manzo con rucola, funghi, parmigiano e citronette al limone con un tocco di aceto balsamico",
+                    "title": "Carpaccio de Bœuf",
+                    "description": "Fines tranches de filet de bœuf avec roquette, champignons, parmesan et citronnette au citron avec une touche balsamique",
                     "price": 14.80,
                     "allergens": []
                 },
                 {
-                    "title": "Insalata di Polpo",
-                    "description": "Fette di polpo con peperone rosso confit, carota, pomodorini e paprika con salsa leggera di patate aromatiche",
+                    "title": "Salade de Poulpe",
+                    "description": "Tranches de poulpe avec poivron rouge confit, carotte, tomate cerise et paprika, accompagnées d’une légère sauce aromatique à la pomme de terre",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Melanzane alla Parmigiana",
-                    "description": "Fette di melanzane con salsa napoletana fatta in casa, parmigiano, basilico e gratinate al forno",
+                    "title": "Parmigiana d’Aubergines",
+                    "description": "Tranches d’aubergine avec sauce napolitaine maison, parmesan, basilic et gratinées au four",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Croqué di Patate",
-                    "description": "Crocchette italiane di patate con provola e prosciutto cotto accompagnate da una delicata aioli al mango e curry",
+                    "title": "Croquettes de Pommes de Terre",
+                    "description": "Croquettes italiennes de pommes de terre au provolone et jambon cuit, servies avec un aïoli doux à la mangue et au curry",
                     "price": 9.90,
                     "allergens": []
                 },
                 {
-                    "title": "Formaggio Fritto",
-                    "description": "Triangoli di formaggio semicuratocon marmellata di cipolla rossa fatta in casa",
+                    "title": "Fromage Frit",
+                    "description": "Triangles de fromage mi-affiné accompagnés d’une marmelade maison d’oignons rouges",
                     "price": 10.00,
                     "allergens": []
                 },
                 {
-                    "title": "Formaggio Affumicato alla Piastra",
-                    "description": "Formaggio affumicato rosolato alla piastra con salsa dolce di peperone, cipolla, pomodoro e basilico",
+                    "title": "Fromage Fumé Grillé",
+                    "description": "Fromage fumé grillé et servi avec une sauce douce au poivron, oignon, tomate et basilic",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Provolone Fuso al Forno",
-                    "description": "Formaggio italiano fuso al forno con origano e servito con grissini",
+                    "title": "Provolone au Four",
+                    "description": "Fromage italien typique fondu au four avec de l’origan et servi avec des gressins",
                     "price": 9.90,
                     "allergens": []
                 },
                 {
-                    "title": "Pane",
+                    "title": "Pain Nature",
                     "description": null,
                     "price": 3.50,
                     "allergens": []
                 },
                 {
-                    "title": "Pane all'Aglio",
+                    "title": "Pain à l’Ail",
                     "description": null,
                     "price": 3.90,
                     "allergens": []
                 },
                 {
-                    "title": "Pane all'Aglio e Formaggio",
+                    "title": "Pain à l’Ail et Fromage",
                     "description": null,
                     "price": 4.60,
                     "allergens": []
                 },
                 {
-                    "title": "Focaccia Bianca",
-                    "description": "Con origano e olio extravergine d'oliva",
+                    "title": "Focaccia Blanche",
+                    "description": "À l’origan et à l’huile d’olive extra vierge",
                     "price": 5.20,
                     "allergens": []
                 },
                 {
-                    "title": "Focaccia Bicolore",
-                    "description": "Base pizza con pomodoro e salsa all'aglio",
+                    "title": "Focaccia Deux Couleurs",
+                    "description": "Base de pizza avec sauce tomate et ail",
                     "price": 6.10,
                     "allergens": []
                 },
                 {
-                    "title": "Focaccia Tricolore",
-                    "description": "Base pizza con pomodoro, salsa all'aglio e mozzarella fior di latte",
+                    "title": "Focaccia Trois Couleurs",
+                    "description": "Base de pizza avec tomate, sauce à l’ail et mozzarella fior di latte",
                     "price": 6.70,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Pasta",
+            "name": "Pâtes",
             "entries": [
                 {
-                    "title": "Spaghetti alla Carbonara",
-                    "description": "Spaghetti con salsa cremosa all’uovo, pecorino romano e guanciale croccante",
+                    "title": "Spaghetti Carbonara",
+                    "description": "Spaghetti avec une sauce crémeuse à l’œuf, pecorino romano et guanciale croustillant",
                     "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Rigatoni all’Arrabbiata",
-                    "description": "Maccheroni con salsa di pomodoro fatta in casa, aglio, prezzemolo e peperoncino",
+                    "description": "Pâtes avec sauce tomate maison, ail, persil et piment",
                     "price": 11.80,
                     "allergens": []
                 },
                 {
-                    "title": "Spaghetti alla Bolognese",
-                    "description": "Spaghetti con ragù di carne e pomodoro in stile bolognese",
+                    "title": "Spaghetti Bolognaise",
+                    "description": "Spaghetti avec sauce tomate et viande façon bolognaise",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
                     "title": "Spaghetti Aglio, Olio e Peperoncino",
-                    "description": "Spaghetti con aglio, olio extravergine d’oliva, peperoncino e prezzemolo",
+                    "description": "Spaghetti à l’ail, à l’huile d’olive extra vierge, au piment et au persil",
                     "price": 11.50,
                     "allergens": []
                 },
                 {
                     "title": "Rigatoni alla Puttanesca",
-                    "description": "Maccheroni con acciughe, capperi, olive e salsa di pomodoro",
+                    "description": "Pâtes aux anchois, câpres, olives et sauce tomate",
                     "price": 13.30,
                     "allergens": []
                 },
                 {
-                    "title": "Rigatoni ai 4 Formaggi",
-                    "description": "Maccheroni con salsa ai quattro formaggi e panna",
+                    "title": "Rigatoni Quatre Fromages",
+                    "description": "Pâtes avec une sauce aux fromages assortis et crème",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
-                    "title": "Spaghetti al Pomodoro",
-                    "description": "Spaghetti con salsa di pomodoro fatta in casa e basilico",
+                    "title": "Spaghetti Pomodoro",
+                    "description": "Spaghetti avec sauce tomate maison et basilic",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "Spaghetti con Verdure",
-                    "description": "Spaghetti saltati con verdure miste e salsa di peperoni rossi e barbabietola",
+                    "title": "Spaghetti Végétarien",
+                    "description": "Spaghetti sautés aux légumes variés avec une sauce au poivron rouge et à la betterave",
                     "price": 13.20,
                     "allergens": []
                 },
                 {
-                    "title": "Lasagna di Carne",
-                    "description": "Sfoglie di pasta con ragù, besciamella e formaggio gratinato",
+                    "title": "Lasagnes à la Viande",
+                    "description": "Couches de pâtes avec bolognaise, béchamel et fromage gratiné",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
-                    "title": "Tagliatelle al Pesto",
-                    "description": "Tagliatelle con salsa al basilico, pinoli, parmigiano e olio extravergine d’oliva",
+                    "title": "Tagliatelle au Pesto",
+                    "description": "Tagliatelle avec sauce au basilic, pignons de pin, parmesan et huile d’olive",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
-                    "title": "Paccheri all’Amatriciana",
-                    "description": "Pasta corta con salsa di pomodoro fatta in casa e guanciale croccante",
+                    "title": "Paccheri Amatriciana",
+                    "description": "Pâtes courtes avec sauce tomate maison et guanciale croustillant",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
-                    "title": "Paccheri alla Norma",
-                    "description": "Pasta con melanzane, salsa di pomodoro, basilico e formaggio scamorza affumicato",
+                    "title": "Paccheri à la Norma",
+                    "description": "Pâtes aux aubergines, sauce tomate, basilic et scamorza fumée",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
-                    "title": "Tagliatelle con Zucchine e Gamberi",
-                    "description": "Tagliatelle con zucchine, gamberi, prezzemolo e panna",
+                    "title": "Tagliatelle aux Courgettes et Crevettes",
+                    "description": "Tagliatelle avec sauce aux courgettes, crevettes, persil et crème",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
-                    "title": "Tagliatelle ai Funghi Porcini e Tartufo",
-                    "description": "Tagliatelle con funghi porcini italiani e crema al tartufo",
+                    "title": "Tagliatelle aux Cèpes et à la Truffe",
+                    "description": "Tagliatelle aux champignons italiens et crème de truffe",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
-                    "title": "Tagliatelle Nere Vongole e Pesto",
-                    "description": "Tagliatelle nere con vongole, pomodorini e pesto",
+                    "title": "Tagliatelle Noires aux Palourdes et au Pesto",
+                    "description": "Tagliatelle noires aux palourdes, tomates cerises et pesto",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fusilli al Ferretto ai Frutti di Mare",
-                    "description": "Pasta artigianale con frutti di mare misti in salsa marinara",
+                    "title": "Fusilli aux Fruits de Mer",
+                    "description": "Pâtes artisanales aux fruits de mer frais variés en sauce marinara",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fusilli al Ferretto con Funghi e Salsiccia",
-                    "description": "Pasta artigianale con funghi, salsiccia italiana, pomodoro e un tocco di panna",
+                    "title": "Fusilli aux Champignons et à la Saucisse",
+                    "description": "Pâtes artisanales aux champignons, saucisse italienne, tomate et une touche de crème",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
-                    "title": "Fiocchetti al Gorgonzola",
-                    "description": "Pasta ripiena di formaggio e pera con salsa al gorgonzola, rucola, noci, prosciutto crudo e parmigiano",
+                    "title": "Fiocchetti au Gorgonzola",
+                    "description": "Pâtes farcies au fromage et à la poire avec sauce au gorgonzola, roquette, fruits secs, jambon serrano et parmesan",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
-                    "title": "Ravioli Funghi Porcini",
-                    "description": "Pasta ripiena di funghi con panna, noci, prosciutto crudo e crema al tartufo",
+                    "title": "Ravioli aux Cèpes",
+                    "description": "Pâtes farcies aux champignons italiens avec crème, fruits secs, jambon serrano et crème de truffe",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
-                    "title": "Ravioli Ricotta e Spinaci con Gamberi",
-                    "description": "Pasta ripiena di ricotta e spinaci con salsa ai porri, pomodoro, panna e gamberi",
+                    "title": "Ravioli Ricotta et Épinards aux Crevettes",
+                    "description": "Pâtes farcies à la ricotta et aux épinards avec sauce au poireau, tomate maison, crème et crevettes",
                     "price": 14.40,
                     "allergens": []
                 },
                 {
-                    "title": "Tortellini di Carne Zucca",
-                    "description": "Pasta ripiena di carne con crema di zucca, salsiccia italiana e panna",
+                    "title": "Tortellini à la Viande et au Potiron",
+                    "description": "Pâtes farcies à la viande avec crème de potiron, saucisse italienne et une touche de crème",
                     "price": 13.90,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Risotti",
+            "name": "Risottos",
             "entries": [
                 {
-                    "title": "Risotto ai Frutti di Mare",
-                    "description": "Riso cremoso con frutti di mare misti e pomodorini",
+                    "title": "Risotto aux Fruits de Mer",
+                    "description": "Riz crémeux aux fruits de mer variés et tomates cerises",
                     "price": 16.90,
                     "allergens": []
                 },
                 {
-                    "title": "Risotto con Verdure",
-                    "description": "Riso cremoso con verdure miste, parmigiano e crema di peperoni rossi e barbabietola",
+                    "title": "Risotto aux Légumes",
+                    "description": "Riz crémeux aux légumes variés, parmesan et crème de poivron rouge et betterave",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
-                    "title": "Risotto ai Funghi Porcini",
-                    "description": "Riso cremoso con funghi porcini italiani e parmigiano",
+                    "title": "Risotto aux Cèpes",
+                    "description": "Riz crémeux préparé avec des champignons italiens et du parmesan",
                     "price": 14.10,
                     "allergens": []
                 },
                 {
-                    "title": "Risotto con Funghi e Salsiccia",
-                    "description": "Riso cremoso con funghi, salsiccia italiana, parmigiano e prezzemolo",
+                    "title": "Risotto aux Champignons et à la Saucisse",
+                    "description": "Riz crémeux aux champignons, saucisse italienne, parmesan et persil",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
-                    "title": "Risotto Baccalá e Polpo",
-                    "description": "Riso cremoso con polpo e baccalà",
+                    "title": "Risotto à la Morue et au Poulpe",
+                    "description": "Riz crémeux au poulpe et à la morue",
                     "price": 17.60,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Secondi di Carne",
+            "name": "Viandes",
             "entries": [
                 {
-                    "title": "Filetto alla Griglia",
-                    "description": "Filetto di manzo alla griglia",
+                    "title": "Filet de Bœuf Grillé",
+                    "description": "Filet de bœuf grillé",
                     "price": 19.90,
                     "allergens": []
                 },
                 {
-                    "title": "Scaloppine ai Funghi Porcini",
-                    "description": "Filetto con salsa cremosa ai funghi porcini italiani",
+                    "title": "Scaloppine aux Cèpes",
+                    "description": "Filet mignon avec sauce crémeuse aux champignons italiens",
                     "price": 17.50,
                     "allergens": []
                 },
                 {
-                    "title": "Guancia di Maiale Iberico di Bellota",
-                    "description": "Guancia di maiale iberico stufata con verdure e vino rosso in stile toscano",
+                    "title": "Joues de Porc Ibérique",
+                    "description": "Joues de porc ibérique mijotées aux légumes et au vin rouge à la toscane",
                     "price": 21.50,
                     "allergens": []
                 },
                 {
-                    "title": "Cotoletta di Pollo",
-                    "description": "Filetto di pollo impanato, succoso e croccante",
+                    "title": "Escalope de Poulet",
+                    "description": "Filet de poulet pané, juteux et croustillant",
                     "price": 13.50,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Secondi de Pesce",
+            "name": "Plats de Poisson",
             "entries": [
                 {
-                    "title": "Pesce Spada alla Siciliana",
-                    "description": "Pesce spada con capperi, pomodorini, olive e peperoncino",
+                    "title": "Espadon à la Sicilienne",
+                    "description": "Espadon aux câpres, tomates cerises, olives et piment",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
-                    "title": "Baccalá in Umido",
-                    "description": "Baccalà con cipolla, salsa di pomodoro, gamberi e frutti di mare",
+                    "title": "Morue Mijotée",
+                    "description": "Morue aux oignons, sauce tomate maison, crevettes et fruits de mer",
                     "price": 17.80,
                     "allergens": []
                 },
                 {
-                    "title": "Salmone al Pistacchio",
-                    "description": "Salmone con crosta di pistacchi e salsa delicata ai piselli",
+                    "title": "Saumon en Croûte de Pistache",
+                    "description": "Saumon en croûte de pistache avec une onctueuse sauce aux petits pois",
                     "price": 19.50,
                     "allergens": []
                 },
                 {
-                    "title": "Baccalá Fritto con Pesto Rosso",
-                    "description": "Trancio di baccalà impanato con salsa di pomodoro secco, pinoli, basilico e parmigiano",
+                    "title": "Morue Frite au Pesto Rouge",
+                    "description": "Morue panée avec sauce aux tomates séchées, pignons de pin, basilic et parmesan",
                     "price": 17.30,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Pizza della Casa",
+            "name": "Pizzas",
             "entries": [
                 {
                     "title": "La Napoletana",
-                    "description": "Base bianca, mozzarella fior di latte, friarielli, salsiccia italiana e scamorza affumicata",
+                    "description": "Base blanche, mozzarella fior di latte, friarielli, saucisse italienne et scamorza fumée",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
                     "title": "Toscana",
-                    "description": "Base bianca, mozzarella fior di latte, crema di zucca, salsiccia italiana e funghi",
+                    "description": "Base blanche, mozzarella fior di latte, crème de potiron, saucisse italienne et champignons",
                     "price": 13.90,
                     "allergens": []
                 },
                 {
                     "title": "Carbonara",
-                    "description": "Base bianca, mozzarella fior di latte, crema d’uovo, pecorino romano e guanciale croccante",
+                    "description": "Base blanche, mozzarella fior di latte, crème d’œuf, pecorino romano et guanciale croustillant",
                     "price": 13.50,
                     "allergens": []
                 },
                 {
                     "title": "Mortazza",
-                    "description": "Base bianca, mozzarella fior di latte, pomodorini, burrata, salsa al pistacchio e mortadella",
+                    "description": "Base blanche, mozzarella fior di latte, tomates cerises, burrata, sauce pistache et mortadelle",
                     "price": 14.90,
                     "allergens": []
                 },
                 {
-                    "title": "Vegetariana",
-                    "description": "Base bianca, crema di zucchine, mozzarella fior di latte, peperone rosso, melanzane e funghi",
+                    "title": "Végétarienne",
+                    "description": "Base blanche, crème de courgette, mozzarella fior di latte, poivron rouge, aubergine et champignons",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
-                    "title": "4 Formaggi",
-                    "description": "Base bianca, salsa al gorgonzola, mozzarella fior di latte e scamorza affumicata",
+                    "title": "Quatre Fromages",
+                    "description": "Base blanche, sauce gorgonzola, mozzarella fior di latte et scamorza fumée",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
-                    "title": "Focaccia Italiana",
-                    "description": "Base bianca, crema di ricotta, mozzarella fior di latte, pomodorini, rucola, prosciutto crudo e parmigiano",
+                    "title": "Focaccia Italienne",
+                    "description": "Base blanche, crème de ricotta, mozzarella fior di latte, tomates cerises, roquette, jambon serrano et parmesan",
                     "price": 12.90,
                     "allergens": []
                 },
                 {
                     "title": "Porcona",
-                    "description": "Base bianca, mozzarella fior di latte, patate al forno, bacon, guanciale e salsiccia italiana",
+                    "description": "Base blanche, mozzarella fior di latte, pommes de terre rôties, bacon, guanciale et saucisse italienne",
                     "price": 13.20,
                     "allergens": []
                 },
                 {
-                    "title": "Focaccia Araba",
-                    "description": "Impasto ripiegato con origano, olio extravergine d'oliva, lattuga, pomodoro, mozzarella di bufala e mortadella",
+                    "title": "Focaccia Arabe",
+                    "description": "Pâte repliée à l’origan et à l’huile d’olive extra vierge, garnie de laitue, tomates, mozzarella di bufala et mortadelle",
                     "price": 14.50,
                     "allergens": []
                 },
                 {
                     "title": "Calzone Mar i Prio",
-                    "description": "Ricotta, mozzarella fior di latte, spianata napoletana, funghi e basilico fresco",
+                    "description": "Ricotta, mozzarella fior di latte, spianata, champignons et basilic frais",
                     "price": 13.10,
                     "allergens": []
                 },
                 {
                     "title": "Margherita",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, basilico fresco e origano",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, basilic frais et origan",
                     "price": 9.50,
                     "allergens": []
                 },
                 {
-                    "title": "Siciliana",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, pomodorini confit, capperi, acciughe e olive nere",
+                    "title": "Sicilienne",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, tomates cerises confites, câpres, anchois et olives noires",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Calzone",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, prosciutto cotto e funghi",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, jambon cuit et champignons",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Prosciutto",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte e prosciutto cotto",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte et jambon cuit",
                     "price": 11.20,
                     "allergens": []
                 },
                 {
-                    "title": "4 Stagioni",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, prosciutto cotto, olive, carciofi e funghi",
+                    "title": "Quatre Saisons",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, jambon cuit, olives, artichaut et champignons",
                     "price": 12.40,
                     "allergens": []
                 },
                 {
                     "title": "Funghi",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte e funghi",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte et champignons",
                     "price": 10.90,
                     "allergens": []
                 },
                 {
                     "title": "Prosciutto e Funghi",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, prosciutto cotto e funghi",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, jambon cuit et champignons",
                     "price": 11.90,
                     "allergens": []
                 },
                 {
-                    "title": "Frutti di Mare",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, tonno e frutti di mare misti",
+                    "title": "Fruits de Mer",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, thon et fruits de mer assortis",
                     "price": 13.40,
                     "allergens": []
                 },
                 {
                     "title": "Diavola",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte e spianata piccante",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte et spianata piquante",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
-                    "title": "Gamberetti",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte e gamberi",
+                    "title": "Crevettes",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte et crevettes",
                     "price": 12.20,
                     "allergens": []
                 },
                 {
-                    "title": "Tonno e Cipolla",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, tonno e cipolla",
+                    "title": "Thon et Oignon",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, thon et oignon",
                     "price": 12.10,
                     "allergens": []
                 },
                 {
-                    "title": "Barbacoa",
-                    "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, bacon, carne macinata, cipolla e salsa barbecue",
+                    "title": "Barbecue",
+                    "description": "Sauce tomate San Marzano, mozzarella fior di latte, bacon, viande hachée, oignon et sauce barbecue",
                     "price": 12.50,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Menù per bambini",
+            "name": "Menu Enfants",
             "entries": [
                 {
-                    "title": "Spaghetti al Pomodoro o alla Bolognese",
+                    "title": "Spaghetti à la Tomate ou Bolognaise",
                     "description": null,
                     "price": 10.00,
                     "allergens": []
                 },
                 {
-                    "title": "Crocchette con Patatine Fritte",
+                    "title": "Croquette avec Frites",
                     "description": null,
                     "price": 10.00,
                     "allergens": []
                 },
                 {
-                    "title": "Pizza Margherita o Prosciutto",
+                    "title": "Pizza Margherita ou au Jambon",
                     "description": null,
                     "price": 10.00,
                     "allergens": []
                 },
                 {
-                    "title": "Pollo Impanato con Patatine Fritte",
+                    "title": "Poulet Pané avec Frites",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.20,
                     "allergens": []
                 },
                 {
-                    "title": "Pesce Impanato con Patatine Fritte",
+                    "title": "Poisson Pané avec Frites",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.20,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Dolce",
+            "name": "Desserts",
             "entries": [
                 {
                     "title": "Panna Cotta",
-                    "description": "Con salsa al cioccolato, salsa al pistacchio o salsa ai frutti rossi",
+                    "description": "Avec sauce au chocolat, sauce à la pistache ou coulis de fruits rouges",
                     "price": 5.10,
                     "allergens": []
                 },
                 {
-                    "title": "Mousse al Cioccolato",
+                    "title": "Mousse au Chocolat",
                     "description": null,
                     "price": 5.30,
                     "allergens": []
                 },
                 {
-                    "title": "Torta al Formaggio",
-                    "description": "Con salsa al cioccolato, al pistacchio o ai frutti rossi",
+                    "title": "Cheesecake",
+                    "description": "Avec sauce au chocolat, pistache ou fruits rouges",
                     "price": 5.50,
                     "allergens": []
                 },
@@ -537,25 +537,25 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Torta al Cioccolato",
+                    "title": "Gâteau au Chocolat",
                     "description": null,
                     "price": 5.30,
                     "allergens": []
                 },
                 {
-                    "title": "Brownie al Cioccolato con Gelato",
+                    "title": "Brownie au Chocolat et Glace",
                     "description": null,
                     "price": 5.90,
                     "allergens": []
                 },
                 {
-                    "title": "Gelati Vari (1 pallina)",
+                    "title": "Glace (1 boule)",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Gelati Vari (2 palline)",
+                    "title": "Glace (2 boules)",
                     "description": null,
                     "price": 5.80,
                     "allergens": []
@@ -563,10 +563,10 @@ export const italian = {
             ]
         },
         {
-            "name": "Vino Bianco",
+            "name": "Vins Blancs",
             "entries": [
                 {
-                    "title": "Gewurztraminer Alto Adige doc",
+                    "title": "Gewurztraminer Alto Adige DOC",
                     "description": null,
                     "price": 37.10,
                     "allergens": []
@@ -578,25 +578,25 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Vermentino di Sardegna doc Sella e Mosca",
+                    "title": "Vermentino di Sardegna DOC Sella e Mosca",
                     "description": null,
                     "price": 20.90,
                     "allergens": []
                 },
                 {
-                    "title": "Cormons Pinot Grigio Isonzo doc",
+                    "title": "Cormons Pinot Grigio Isonzo DOC",
                     "description": null,
                     "price": 20.50,
                     "allergens": []
                 },
                 {
-                    "title": "Verdicchio doc classico Fazi-Battaglia",
+                    "title": "Verdicchio DOC Classico Fazi-Battaglia",
                     "description": null,
                     "price": 24.10,
                     "allergens": []
                 },
                 {
-                    "title": "Castillo de Miraflores Verdejo de Rueda semidulce",
+                    "title": "Castillo de Miraflores Verdejo de Rueda Demi-Sec",
                     "description": null,
                     "price": 19.90,
                     "allergens": []
@@ -604,87 +604,87 @@ export const italian = {
             ]
         },
         {
-            "name": "Vino rosso",
+            "name": "Vins Rouges",
             "entries": [
                 {
-                    "title": "Azpilicueta crianza Rioja",
+                    "title": "Azpilicueta Crianza Rioja",
                     "description": null,
                     "price": 21.50,
                     "allergens": []
                 },
                 {
-                    "title": "Pata Negra Rioja Roble",
+                    "title": "Pata Negra Rioja Vieilli en Fût",
                     "description": null,
                     "price": 14.00,
                     "allergens": []
                 },
                 {
-                    "title": "Barolo docg Casali del Barone",
+                    "title": "Barolo DOCG Casali del Barone",
                     "description": null,
                     "price": 45.20,
                     "allergens": []
                 },
                 {
-                    "title": "Chianti docg Castello Querceto",
+                    "title": "Chianti DOCG Castello Querceto",
                     "description": null,
                     "price": 18.80,
                     "allergens": []
                 },
                 {
-                    "title": "Nero d’Avola di Sicilia doc Montepietroso",
+                    "title": "Nero d’Avola di Sicilia DOC Montepietroso",
                     "description": null,
                     "price": 17.30,
                     "allergens": []
                 },
                 {
-                    "title": "Primitivo igt di Puglia Montepietroso",
+                    "title": "Primitivo IGT di Puglia Montepietroso",
                     "description": null,
                     "price": 18.10,
                     "allergens": []
                 },
                 {
-                    "title": "Lambrusco Reggiano doc Ca’ de Medici",
-                    "description": "Spumante",
+                    "title": "Lambrusco Reggiano DOC Ca’ de Medici",
+                    "description": "Pétillant",
                     "price": 15.90,
                     "allergens": []
                 }
             ]
         },
         {
-            "name": "Vinos Rosatos",
+            "name": "Rosé et Effervescents",
             "entries": [
                 {
-                    "title": "Primitivo Puglia igt Gabbia d’Oro",
+                    "title": "Primitivo Puglia IGT Gabbia d’Oro",
                     "description": null,
                     "price": 15.90,
                     "allergens": []
                 },
                 {
-                    "title": "Lambrusco doc Remigio Premium",
-                    "description": "Spumante",
+                    "title": "Lambrusco DOC Remigio Premium",
+                    "description": "Pétillant",
                     "price": 15.90,
                     "allergens": []
                 },
                 {
-                    "title": "Bacio di Luna Blanc de Blanc Spumante",
-                    "description": "Spumante",
+                    "title": "Bacio di Luna Blanc de Blancs Spumante",
+                    "description": "Pétillant",
                     "price": 14.00,
                     "allergens": []
                 },
                 {
-                    "title": "Gheller prosecco doc rosé Millesimato",
+                    "title": "Gheller Prosecco DOC Rosé Millesimato",
                     "description": null,
                     "price": 19.90,
                     "allergens": []
                 },
                 {
-                    "title": "Gheller prosecco valdobbiadene sup. docg",
+                    "title": "Gheller Prosecco Valdobbiadene Superiore DOCG",
                     "description": null,
                     "price": 25.10,
                     "allergens": []
                 },
                 {
-                    "title": "Franciacorta brut Contadi Castaldi",
+                    "title": "Franciacorta Brut Contadi Castaldi",
                     "description": null,
                     "price": 41.50,
                     "allergens": []
@@ -692,7 +692,7 @@ export const italian = {
             ]
         },
         {
-            "name": "Caffè",
+            "name": "Cafés",
             "entries": [
                 {
                     "title": "Espresso",
@@ -701,37 +701,37 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Espresso Lungo",
+                    "title": "Espresso Allongé",
                     "description": null,
                     "price": 1.60,
                     "allergens": []
                 },
                 {
-                    "title": "Latte Macchiato piccolo",
+                    "title": "Latte Macchiato Court",
                     "description": null,
                     "price": 1.80,
                     "allergens": []
                 },
                 {
-                    "title": "Latte Macchiato grande",
+                    "title": "Latte Macchiato Long",
                     "description": null,
                     "price": 2.10,
                     "allergens": []
                 },
                 {
-                    "title": "Caffè Bonbon piccolo",
+                    "title": "Café Viennois Court",
                     "description": null,
                     "price": 1.80,
                     "allergens": []
                 },
                 {
-                    "title": "Caffè Bonbon grande",
+                    "title": "Café Viennois Long",
                     "description": null,
                     "price": 2.00,
                     "allergens": []
                 },
                 {
-                    "title": "Caffè con latte e latte condensato",
+                    "title": "Café au Lait et Lait Concentré",
                     "description": null,
                     "price": 2.20,
                     "allergens": []
@@ -743,7 +743,7 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Caffè corretto",
+                    "title": "Café avec Liqueur",
                     "description": null,
                     "price": 2.50,
                     "allergens": []
@@ -755,13 +755,13 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Tè",
+                    "title": "Thés",
                     "description": null,
                     "price": 2.30,
                     "allergens": []
                 },
                 {
-                    "title": "Cioccolata calda",
+                    "title": "Chocolat Chaud",
                     "description": null,
                     "price": 2.50,
                     "allergens": []
@@ -769,7 +769,7 @@ export const italian = {
             ]
         },
         {
-            "name": "Bevande Analcoliche",
+            "name": "Boissons",
             "entries": [
                 {
                     "title": "Pepsi",
@@ -778,7 +778,7 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Pepsi Zero",
+                    "title": "Pepsi Zéro",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
@@ -790,49 +790,49 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Schweppes Limone",
+                    "title": "Schweppes Citron",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Schweppes Arancia",
+                    "title": "Schweppes Orange",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Schweppes Acqua Tonica",
+                    "title": "Schweppes Tonic",
                     "description": null,
                     "price": 2.20,
                     "allergens": []
                 },
                 {
-                    "title": "Clipper Fragola",
+                    "title": "Clipper Fraise",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Lipton Limone",
+                    "title": "Lipton Citron",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Lipton Mango e Frutto della Passione",
+                    "title": "Lipton Mangue–Fruit de la Passion",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Lipton Mango e Ananas",
+                    "title": "Lipton Mangue–Ananas",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Nestea Mango e Ananas",
+                    "title": "Nestea Mangue–Ananas",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
@@ -850,19 +850,19 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Succo Ananas e Pera",
+                    "title": "Jus Ananas–Poire",
                     "description": null,
                     "price": 2.50,
                     "allergens": []
                 },
                 {
-                    "title": "Succo di Mango",
+                    "title": "Jus de Mangue",
                     "description": null,
                     "price": 2.50,
                     "allergens": []
                 },
                 {
-                    "title": "Succo di Pesca",
+                    "title": "Jus de Pêche",
                     "description": null,
                     "price": 2.50,
                     "allergens": []
@@ -870,10 +870,10 @@ export const italian = {
             ]
         },
         {
-            "name": "Birre e Alcolici",
+            "name": "Bières et Alcools",
             "entries": [
                 {
-                    "title": "Tropical non filtrata",
+                    "title": "Tropical Non Filtrée",
                     "description": null,
                     "price": 3.20,
                     "allergens": []
@@ -885,49 +885,49 @@ export const italian = {
                     "allergens": []
                 },
                 {
-                    "title": "Tropical al Limone",
+                    "title": "Tropical au Citron",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
                 },
                 {
-                    "title": "Dorada Speciale",
+                    "title": "Dorada Spéciale",
                     "description": null,
                     "price": 3.00,
                     "allergens": []
                 },
                 {
-                    "title": "Dorada Speciale Tostata",
+                    "title": "Dorada Spéciale Ambrée",
                     "description": null,
                     "price": 3.00,
                     "allergens": []
                 },
                 {
-                    "title": "Dorada Speciale 0,0",
+                    "title": "Dorada Spéciale 0,0",
                     "description": null,
                     "price": 3.00,
                     "allergens": []
                 },
                 {
-                    "title": "Daura Damm senza glutine",
+                    "title": "Daura Damm Sans Gluten",
                     "description": null,
                     "price": 3.00,
                     "allergens": []
                 },
                 {
-                    "title": "Victoria 0,0 tostata senza glutine",
+                    "title": "Victoria 0,0 Ambrée Sans Gluten",
                     "description": null,
                     "price": 3.00,
                     "allergens": []
                 },
                 {
-                    "title": "Shot di liquore",
+                    "title": "Shot de Liqueur",
                     "description": null,
                     "price": 2.50,
                     "allergens": []
                 },
                 {
-                    "title": "Bicchiere di liquore",
+                    "title": "Verre de Liqueur",
                     "description": null,
                     "price": 5.00,
                     "allergens": []
@@ -936,67 +936,67 @@ export const italian = {
         }
     ],
     "allergens": {
-        1: {
+        "1": {
             "name": "CRUSTÁCEOS",
             "color": "#bcd9f1ff",
             "colordark": "#2368a1ff"
         },
-        2: {
+        "2": {
             "name": "HUEVOS",
             "color": "#f2dab0ff",
             "colordark": "#E9A129"
         },
-        3: {
+        "3": {
             "name": "PESCADO",
             "color": "#8890bbff",
             "colordark": "#233494"
         },
-        4: {
+        "4": {
             "name": "CACAHUETES",
             "color": "#eac7b0ff",
             "colordark": "#a95f2eff"
         },
-        5: {
+        "5": {
             "name": "SOJA",
             "color": "#BDD4C9",
             "colordark": "#1b7449ff"
         },
-        6: {
+        "6": {
             "name": "LÁCTEOS",
             "color": "#e2c2b0ff",
             "colordark": "#7B401F"
         },
-        7: {
+        "7": {
             "name": "FRUTOS DE CÁSCARA",
             "color": "#e6bfbeff",
             "colordark": "#DA5955"
         },
-        8: {
+        "8": {
             "name": "APIO",
             "color": "#d4f5bbff",
             "colordark": "#74CE31"
         },
-        9: {
+        "9": {
             "name": "MOSTAZA",
             "color": "#e6d3a5ff",
             "colordark": "#CD9D2E"
         },
-        10: {
+        "10": {
             "name": "GRANOS DE SÉSAMO",
             "color": "#e8d5adff",
             "colordark": "#7d6a42ff"
         },
-        11: {
+        "11": {
             "name": "MOLUSCOS",
             "color": "#b8e7f2ff",
             "colordark": "#48bedbff"
         },
-        12: {
+        "12": {
             "name": "ALTRAMUCES",
             "color": "#efe7b7ff",
             "colordark": "#F5E051"
         },
-        13: {
+        "13": {
             "name": "GLUTEN",
             "color": "#edc9b1ff",
             "colordark": "#d66f2bff"

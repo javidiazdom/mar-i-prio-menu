@@ -3,6 +3,7 @@
 	import { english } from "../menu/en-UK";
 	import { german } from "../menu/de-GE";
 	import { italian } from "../menu/it-IT";
+	import { french } from "../menu/fr-FR";
     import logo from "$lib/assets/mar-i-prio-logo.png";
     import favicon from "$lib/assets/mar-i-prio-logo.ico";
 
@@ -10,7 +11,8 @@
         "es-ES": spanish,
         "en-UK": english,
         "de-GE": german,
-        "it-IT": italian
+        "it-IT": italian,
+        "fr-FR": french
     }
     let languages: Array<LanguageOption> = [
         {
@@ -28,7 +30,11 @@
         {
             displayName: "🇮🇹 Italiano",
             value: "it-IT"
-        }
+        },
+        {
+            displayName: "🇫🇷 Français",
+            value: "fr-FR"
+        },
     ];
     
     let selectedLanguage:string = $state("es-ES");
