@@ -555,9 +555,9 @@ export const spanish = {
                     "allergens": []
                 },
                 {
-                    "title": "Helados Variados (1 bola)",
+                    "title": "Lemon Pie",
                     "description": null,
-                    "price": 2.90,
+                    "price": 5,60,
                     "allergens": []
                 },
                 {
