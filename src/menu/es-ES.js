@@ -36,13 +36,13 @@ export const spanish = {
                 {
                     "title": "Carpaccio di Manzo",
                     "description": "Finas lonchas de solomillo de vacuno con rucola, champiñones, parmesano y citronette de limón con toque balsámico",
-                    "price": 14.80,
+                    "price": 15.50,
                     "allergens": []
                 },
                 {
                     "title": "Ensalada de Pulpo",
                     "description": "Rodajas de pulpo con pimiento rojo confitado, zanahoria, tomate cherry y pimentón con salsa ligera de patata aromática",
-                    "price": 16.90,
+                    "price": 16.60,
                     "allergens": []
                 },
                 {
@@ -96,7 +96,7 @@ export const spanish = {
                 {
                     "title": "Focaccia Bianca",
                     "description": "Con orégano y aceite virgen extra",
-                    "price": 5.20,
+                    "price": 4.20,
                     "allergens": []
                 },
                 {
@@ -185,13 +185,13 @@ export const spanish = {
                 {
                     "title": "Paccheri alla Norma",
                     "description": "Pasta con berenjenas, salsa de tomate, albahaca y queso scamorza ahumado",
-                    "price": 12.50,
+                    "price": 12.90,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle con Zucchine e Gamberi",
                     "description": "Tallarines con calabacín, gambas, perejil y nata",
-                    "price": 13.00,
+                    "price": 13.20,
                     "allergens": []
                 },
                 {
@@ -215,7 +215,7 @@ export const spanish = {
                 {
                     "title": "Fusilli al Ferretto con Funghi e Salsiccia",
                     "description": "Pasta artesanal con setas, salchicha italiana, tomate y un poco de nata",
-                    "price": 13.90,
+                    "price": 15,30,
                     "allergens": []
                 },
                 {
@@ -233,7 +233,7 @@ export const spanish = {
                 {
                     "title": "Ravioli Ricotta e Spinaci con Gambas",
                     "description": "Pasta rellena de ricotta y espinaca con salsa de puerros, tomate, nata y gambas",
-                    "price": 14.00,
+                    "price": 14.10,
                     "allergens": []
                 },
                 {
@@ -250,7 +250,7 @@ export const spanish = {
                 {
                     "title": "Risotto ai Frutti di Mare",
                     "description": "Arroz cremoso con mariscos variados y tomate cherry.\n\n*pruébalo con tinta de calamar* (+1€)",
-                    "price": 16.00,
+                    "price": 16.10,
                     "allergens": []
                 },
                 {
@@ -274,7 +274,7 @@ export const spanish = {
                 {
                     "title": "Risotto Baccalá e Polpo",
                     "description": "Arroz cremoso con pulpo y bacalao",
-                    "price": 17.60,
+                    "price": 17,00,
                     "allergens": []
                 }
             ]
@@ -367,7 +367,7 @@ export const spanish = {
                 {
                     "title": "Vegetariana",
                     "description": "Base blanca, crema de calabacín, mozzarella fior di latte, pimiento rojo, berenjenas y champiñones",
-                    "price": 13.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -472,6 +472,12 @@ export const spanish = {
                     "price": 12.50,
                     "allergens": []
                 }
+                {
+                    "title": "Sfiziosa",
+                    "description": "Base de crema de calabacín, queso mozarella, tomate cherry, guanciale, crema de gorgonzola y nueves",
+                    "price": 14.50,
+                    "allergens": []
+                }
             ]
         },
         {
@@ -480,25 +486,25 @@ export const spanish = {
                 {
                     "title": "Espaguetis Tomate o Boloñesa",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Croqué con Papas Fritas",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Pizza Margherita o de Jamón",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Pollo Empanado con Papas Fritas",
                     "description": null,
-                    "price": 10.20,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
@@ -751,7 +757,7 @@ export const spanish = {
                 {
                     "title": "Barraquito",
                     "description": null,
-                    "price": 2.30,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
@@ -807,6 +813,11 @@ export const spanish = {
                     "price": 2.20,
                     "allergens": []
                 },
+                 {
+                    "title": "Aguarade limón o Naranja",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
                 {
                     "title": "Clipper fresa",
                     "description": null,
@@ -873,15 +884,15 @@ export const spanish = {
             "name": "Cervezas y alcohol",
             "entries": [
                 {
-                    "title": "Tropical sin filtrar",
+                    "title": "Tropical sin filtrar copa",
                     "description": null,
                     "price": 3.20,
                     "allergens": []
                 },
-                {
-                    "title": "Tropical",
+                 {
+                    "title": "Tropical caña",
                     "description": null,
-                    "price": 2.90,
+                    "price":2,80,
                     "allergens": []
                 },
                 {
@@ -929,7 +940,7 @@ export const spanish = {
                 {
                     "title": "Copa licor",
                     "description": null,
-                    "price": 5.00,
+                    "price": 6.00,
                     "allergens": []
                 }
             ]
