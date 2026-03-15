@@ -36,13 +36,13 @@ export const english = {
                 {
                     "title": "Beef Carpaccio",
                     "description": "Thin slices of beef tenderloin with arugula, mushrooms, parmesan and lemon citronette with a balsamic touch",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
                     "title": "Octopus Salad",
                     "description": "Slices of octopus with candied red pepper, carrot, cherry tomato and paprika with a light aromatic potato sauce",
-                    "price": 16.90,
+                    "price": 16.60,
                     "allergens": []
                 },
                 {
@@ -78,37 +78,37 @@ export const english = {
                 {
                     "title": "Plain Bread",
                     "description": null,
-                    "price": 3.50,
+                    "price": 3.40,
                     "allergens": []
                 },
                 {
                     "title": "Garlic Bread",
                     "description": null,
-                    "price": 3.90,
+                    "price": 3.80,
                     "allergens": []
                 },
                 {
                     "title": "Garlic Bread with Cheese",
                     "description": null,
-                    "price": 4.60,
+                    "price": 4.50,
                     "allergens": []
                 },
                 {
                     "title": "White Focaccia",
                     "description": "With oregano and extra virgin olive oil",
-                    "price": 5.20,
+                    "price": 4.90,
                     "allergens": []
                 },
                 {
                     "title": "Two-Color Focaccia",
                     "description": "Pizza base with tomato and garlic sauce",
-                    "price": 6.10,
+                    "price": 5.50,
                     "allergens": []
                 },
                 {
                     "title": "Three-Color Focaccia",
                     "description": "Pizza base with tomato, garlic sauce and fior di latte mozzarella",
-                    "price": 6.70,
+                    "price": 5.70,
                     "allergens": []
                 }
             ]
@@ -143,7 +143,7 @@ export const english = {
                 {
                     "title": "Rigatoni alla Puttanesca",
                     "description": "Pasta with anchovies, capers, olives and tomato sauce",
-                    "price": 13.30,
+                    "price": 12.30,
                     "allergens": []
                 },
                 {
@@ -161,7 +161,7 @@ export const english = {
                 {
                     "title": "Veggie Spaghetti",
                     "description": "Spaghetti sautéed with assorted vegetables and a red pepper and beetroot sauce",
-                    "price": 13.20,
+                    "price": 12.20,
                     "allergens": []
                 },
                 {
@@ -173,43 +173,43 @@ export const english = {
                 {
                     "title": "Tagliatelle al Pesto",
                     "description": "Tagliatelle with basil sauce, pine nuts, parmesan and olive oil",
-                    "price": 12.40,
+                    "price": 12.50,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri Amatriciana",
                     "description": "Short pasta with homemade tomato sauce and crispy guanciale",
-                    "price": 13.90,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri Norma",
                     "description": "Pasta with eggplant, tomato sauce, basil and smoked scamorza cheese",
-                    "price": 13.50,
+                    "price": 12.90,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle with Zucchini and Shrimp",
                     "description": "Tagliatelle with zucchini sauce, shrimp, parsley and cream",
-                    "price": 13.50,
+                    "price": 13.20,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle with Porcini Mushrooms and Truffle",
                     "description": "Tagliatelle with Italian mushrooms and truffle cream",
-                    "price": 13.40,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Black Tagliatelle with Clams and Pesto",
                     "description": "Black tagliatelle with clams, cherry tomatoes and pesto",
-                    "price": 16.90,
+                    "price": 15.90,
                     "allergens": []
                 },
                 {
                     "title": "Fusilli with Seafood",
                     "description": "Artisanal pasta with assorted fresh seafood in marinara sauce",
-                    "price": 16.90,
+                    "price": 15.90,
                     "allergens": []
                 },
                 {
@@ -233,13 +233,13 @@ export const english = {
                 {
                     "title": "Ricotta and Spinach Ravioli with Shrimp",
                     "description": "Pasta filled with ricotta and spinach with leek sauce, homemade tomato, cream and shrimp",
-                    "price": 14.40,
+                    "price": 14.10,
                     "allergens": []
                 },
                 {
                     "title": "Meat Tortellini with Pumpkin",
                     "description": "Pasta filled with meat with pumpkin cream, Italian sausage and a little cream",
-                    "price": 13.90,
+                    "price": 13.50,
                     "allergens": []
                 }
             ]
@@ -250,7 +250,7 @@ export const english = {
                 {
                     "title": "Seafood Risotto",
                     "description": "Creamy rice with assorted seafood and cherry tomato",
-                    "price": 16.90,
+                    "price": 16.10,
                     "allergens": []
                 },
                 {
@@ -274,7 +274,7 @@ export const english = {
                 {
                     "title": "Cod and Octopus Risotto",
                     "description": "Creamy rice with octopus and cod",
-                    "price": 17.60,
+                    "price": 17.00,
                     "allergens": []
                 }
             ]
@@ -285,7 +285,7 @@ export const english = {
                 {
                     "title": "Grilled Beef Tenderloin",
                     "description": "Grilled beef tenderloin",
-                    "price": 19.90,
+                    "price": 18.90,
                     "allergens": []
                 },
                 {
@@ -297,13 +297,13 @@ export const english = {
                 {
                     "title": "Iberian Pork Cheeks",
                     "description": "Iberian pork cheeks stewed with vegetables and red wine Tuscan-style",
-                    "price": 21.50,
+                    "price": 19.90,
                     "allergens": []
                 },
                 {
                     "title": "Chicken Cutlet",
                     "description": "Breaded chicken fillet, juicy and crispy",
-                    "price": 13.50,
+                    "price": 12.50,
                     "allergens": []
                 }
             ]
@@ -314,7 +314,7 @@ export const english = {
                 {
                     "title": "Sicilian Swordfish",
                     "description": "Swordfish with capers, cherry tomatoes, olives and chili",
-                    "price": 14.50,
+                    "price": 15.10,
                     "allergens": []
                 },
                 {
@@ -326,7 +326,7 @@ export const english = {
                 {
                     "title": "Pistachio Salmon",
                     "description": "Salmon with pistachio crust and a smooth pea sauce",
-                    "price": 19.50,
+                    "price": 18.50,
                     "allergens": []
                 },
                 {
@@ -367,7 +367,7 @@ export const english = {
                 {
                     "title": "Vegetarian",
                     "description": "White base, zucchini cream, fior di latte mozzarella, red pepper, eggplant and mushrooms",
-                    "price": 13.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -472,6 +472,12 @@ export const english = {
                     "price": 12.50,
                     "allergens": []
                 }
+                {
+                    "title": "Sfiziosa",
+                    "description": "Zucchini cream base, mozzarella cheese, cherry tomato, guanciale, gorgonzola cream and walnuts",
+                    "price": 14.50,
+                    "allergens": []
+                }
             ]
         },
         {
@@ -480,31 +486,31 @@ export const english = {
                 {
                     "title": "Spaghetti with Tomato or Bolognese",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Croquette with Fries",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Margherita or Ham Pizza",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Breaded Chicken with Fries",
                     "description": null,
-                    "price": 10.20,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Breaded Fish with Fries",
                     "description": null,
-                    "price": 10.20,
+                    "price": 10.10,
                     "allergens": []
                 }
             ]
@@ -540,6 +546,12 @@ export const english = {
                     "title": "Chocolate Cake",
                     "description": null,
                     "price": 5.30,
+                    "allergens": []
+                },
+                {
+                    "title": "Lemon Pie",
+                    "description": null,
+                    "price": 5.60,
                     "allergens": []
                 },
                 {
@@ -751,7 +763,7 @@ export const english = {
                 {
                     "title": "Barraquito",
                     "description": null,
-                    "price": 2.30,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
@@ -797,6 +809,12 @@ export const english = {
                 },
                 {
                     "title": "Orange schweppes",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Aguarade lemon or orange",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
@@ -873,9 +891,15 @@ export const english = {
             "name": "Beers and alcohol",
             "entries": [
                 {
-                    "title": "Tropical unfiltered",
+                    "title": "unfiltered tropical cup",
                     "description": null,
                     "price": 3.20,
+                    "allergens": []
+                },
+                {
+                    "title": "tropical unfiltered cane",
+                    "description": null,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
@@ -929,7 +953,7 @@ export const english = {
                 {
                     "title": "Liquor cup",
                     "description": null,
-                    "price": 5.00,
+                    "price": 6.00,
                     "allergens": []
                 }
             ]
