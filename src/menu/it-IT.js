@@ -36,13 +36,13 @@ export const italian = {
                 {
                     "title": "Carpaccio di Manzo",
                     "description": "Fettine sottili di filetto di manzo con rucola, funghi, parmigiano e citronette al limone con un tocco di aceto balsamico",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
                     "title": "Insalata di Polpo",
                     "description": "Fette di polpo con peperone rosso confit, carota, pomodorini e paprika con salsa leggera di patate aromatiche",
-                    "price": 16.90,
+                    "price": 16.60,
                     "allergens": []
                 },
                 {
@@ -78,37 +78,37 @@ export const italian = {
                 {
                     "title": "Pane",
                     "description": null,
-                    "price": 3.50,
+                    "price": 3.40,
                     "allergens": []
                 },
                 {
                     "title": "Pane all'Aglio",
                     "description": null,
-                    "price": 3.90,
+                    "price": 3.98,
                     "allergens": []
                 },
                 {
                     "title": "Pane all'Aglio e Formaggio",
                     "description": null,
-                    "price": 4.60,
+                    "price": 4.50,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Bianca",
                     "description": "Con origano e olio extravergine d'oliva",
-                    "price": 5.20,
+                    "price": 4.90,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Bicolore",
                     "description": "Base pizza con pomodoro e salsa all'aglio",
-                    "price": 6.10,
+                    "price": 5.50,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Tricolore",
                     "description": "Base pizza con pomodoro, salsa all'aglio e mozzarella fior di latte",
-                    "price": 6.70,
+                    "price": 5.70,
                     "allergens": []
                 }
             ]
@@ -143,7 +143,7 @@ export const italian = {
                 {
                     "title": "Rigatoni alla Puttanesca",
                     "description": "Maccheroni con acciughe, capperi, olive e salsa di pomodoro",
-                    "price": 13.30,
+                    "price": 12.30,
                     "allergens": []
                 },
                 {
@@ -161,7 +161,7 @@ export const italian = {
                 {
                     "title": "Spaghetti con Verdure",
                     "description": "Spaghetti saltati con verdure miste e salsa di peperoni rossi e barbabietola",
-                    "price": 13.20,
+                    "price": 12.200,
                     "allergens": []
                 },
                 {
@@ -173,43 +173,43 @@ export const italian = {
                 {
                     "title": "Tagliatelle al Pesto",
                     "description": "Tagliatelle con salsa al basilico, pinoli, parmigiano e olio extravergine d’oliva",
-                    "price": 12.40,
+                    "price": 12.50,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri all’Amatriciana",
                     "description": "Pasta corta con salsa di pomodoro fatta in casa e guanciale croccante",
-                    "price": 13.90,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri alla Norma",
                     "description": "Pasta con melanzane, salsa di pomodoro, basilico e formaggio scamorza affumicato",
-                    "price": 13.50,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle con Zucchine e Gamberi",
                     "description": "Tagliatelle con zucchine, gamberi, prezzemolo e panna",
-                    "price": 13.50,
+                    "price": 13.20,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle ai Funghi Porcini e Tartufo",
                     "description": "Tagliatelle con funghi porcini italiani e crema al tartufo",
-                    "price": 13.40,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle Nere Vongole e Pesto",
                     "description": "Tagliatelle nere con vongole, pomodorini e pesto",
-                    "price": 16.90,
+                    "price": 15.90,
                     "allergens": []
                 },
                 {
                     "title": "Fusilli al Ferretto ai Frutti di Mare",
                     "description": "Pasta artigianale con frutti di mare misti in salsa marinara",
-                    "price": 16.90,
+                    "price": 15.90,
                     "allergens": []
                 },
                 {
@@ -233,13 +233,13 @@ export const italian = {
                 {
                     "title": "Ravioli Ricotta e Spinaci con Gamberi",
                     "description": "Pasta ripiena di ricotta e spinaci con salsa ai porri, pomodoro, panna e gamberi",
-                    "price": 14.40,
+                    "price": 14.10,
                     "allergens": []
                 },
                 {
                     "title": "Tortellini di Carne Zucca",
                     "description": "Pasta ripiena di carne con crema di zucca, salsiccia italiana e panna",
-                    "price": 13.90,
+                    "price": 13.50,
                     "allergens": []
                 }
             ]
@@ -250,7 +250,7 @@ export const italian = {
                 {
                     "title": "Risotto ai Frutti di Mare",
                     "description": "Riso cremoso con frutti di mare misti e pomodorini",
-                    "price": 16.90,
+                    "price": 16.10,
                     "allergens": []
                 },
                 {
@@ -274,7 +274,7 @@ export const italian = {
                 {
                     "title": "Risotto Baccalá e Polpo",
                     "description": "Riso cremoso con polpo e baccalà",
-                    "price": 17.60,
+                    "price": 17.00,
                     "allergens": []
                 }
             ]
@@ -285,7 +285,7 @@ export const italian = {
                 {
                     "title": "Filetto alla Griglia",
                     "description": "Filetto di manzo alla griglia",
-                    "price": 19.90,
+                    "price": 18.90,
                     "allergens": []
                 },
                 {
@@ -297,13 +297,13 @@ export const italian = {
                 {
                     "title": "Guancia di Maiale Iberico di Bellota",
                     "description": "Guancia di maiale iberico stufata con verdure e vino rosso in stile toscano",
-                    "price": 21.50,
+                    "price": 19.90,
                     "allergens": []
                 },
                 {
                     "title": "Cotoletta di Pollo",
                     "description": "Filetto di pollo impanato, succoso e croccante",
-                    "price": 13.50,
+                    "price": 12.50,
                     "allergens": []
                 }
             ]
@@ -314,7 +314,7 @@ export const italian = {
                 {
                     "title": "Pesce Spada alla Siciliana",
                     "description": "Pesce spada con capperi, pomodorini, olive e peperoncino",
-                    "price": 14.50,
+                    "price": 15.10,
                     "allergens": []
                 },
                 {
@@ -326,7 +326,7 @@ export const italian = {
                 {
                     "title": "Salmone al Pistacchio",
                     "description": "Salmone con crosta di pistacchi e salsa delicata ai piselli",
-                    "price": 19.50,
+                    "price": 18.50,
                     "allergens": []
                 },
                 {
@@ -367,7 +367,7 @@ export const italian = {
                 {
                     "title": "Vegetariana",
                     "description": "Base bianca, crema di zucchine, mozzarella fior di latte, peperone rosso, melanzane e funghi",
-                    "price": 13.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -472,6 +472,12 @@ export const italian = {
                     "price": 12.50,
                     "allergens": []
                 }
+                {
+                    "title": "Sfiziosa",Base di crema di zucchine, mozzarella fior di latte, pomodorini, guanciale, crema di gorgonzola e nociSalsa di pomodoro San Marzano, mozzarella fior di latte, bacon, carne macinata, cipolla e salsa barbecue",
+                    "price": 14.50,
+                    "allergens": []
+                }
+                                    
             ]
         },
         {
@@ -480,31 +486,31 @@ export const italian = {
                 {
                     "title": "Spaghetti al Pomodoro o alla Bolognese",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Crocchette con Patatine Fritte",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Pizza Margherita o Prosciutto",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Pollo Impanato con Patatine Fritte",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Pesce Impanato con Patatine Fritte",
                     "description": null,
-                    "price": 10.30,
+                    "price": 10.10,
                     "allergens": []
                 }
             ]
@@ -546,6 +552,12 @@ export const italian = {
                     "title": "Brownie al Cioccolato con Gelato",
                     "description": null,
                     "price": 5.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lemon Pie",
+                    "description": null,
+                    "price": 5.60,
                     "allergens": []
                 },
                 {
@@ -751,7 +763,7 @@ export const italian = {
                 {
                     "title": "Barraquito",
                     "description": null,
-                    "price": 2.30,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
@@ -785,6 +797,12 @@ export const italian = {
                 },
                 {
                     "title": "7 Up",
+                    "description": null,
+                    "price": 2.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Aguarade limone o arancia",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
@@ -873,9 +891,14 @@ export const italian = {
             "name": "Birre e Alcolici",
             "entries": [
                 {
-                    "title": "Tropical non filtrata",
+                    "title": "vetro tropicale non filtrato",
                     "description": null,
                     "price": 3.20,
+                    "allergens": []
+                },
+                "title": "canna tropicale non filtrata",
+                    "description": null,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
@@ -929,7 +952,7 @@ export const italian = {
                 {
                     "title": "Bicchiere di liquore",
                     "description": null,
-                    "price": 5.00,
+                    "price": 6.00,
                     "allergens": []
                 }
             ]
