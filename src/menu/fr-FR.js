@@ -36,13 +36,13 @@ export const french = {
                 {
                     "title": "Carpaccio de Bœuf",
                     "description": "Fines tranches de filet de bœuf avec roquette, champignons, parmesan et citronnette au citron avec une touche balsamique",
-                    "price": 14.80,
+                    "price": 14.50,
                     "allergens": []
                 },
                 {
                     "title": "Salade de Poulpe",
                     "description": "Tranches de poulpe avec poivron rouge confit, carotte, tomate cerise et paprika, accompagnées d’une légère sauce aromatique à la pomme de terre",
-                    "price": 16.90,
+                    "price": 16.60,
                     "allergens": []
                 },
                 {
@@ -78,37 +78,37 @@ export const french = {
                 {
                     "title": "Pain Nature",
                     "description": null,
-                    "price": 3.50,
+                    "price": 3.40,
                     "allergens": []
                 },
                 {
                     "title": "Pain à l’Ail",
                     "description": null,
-                    "price": 3.90,
+                    "price": 3.80,
                     "allergens": []
                 },
                 {
                     "title": "Pain à l’Ail et Fromage",
                     "description": null,
-                    "price": 4.60,
+                    "price": 4.50,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Blanche",
                     "description": "À l’origan et à l’huile d’olive extra vierge",
-                    "price": 5.20,
+                    "price": 4.90,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Deux Couleurs",
                     "description": "Base de pizza avec sauce tomate et ail",
-                    "price": 6.10,
+                    "price": 5.50,
                     "allergens": []
                 },
                 {
                     "title": "Focaccia Trois Couleurs",
                     "description": "Base de pizza avec tomate, sauce à l’ail et mozzarella fior di latte",
-                    "price": 6.70,
+                    "price": 5.70,
                     "allergens": []
                 }
             ]
@@ -143,7 +143,7 @@ export const french = {
                 {
                     "title": "Rigatoni alla Puttanesca",
                     "description": "Pâtes aux anchois, câpres, olives et sauce tomate",
-                    "price": 13.30,
+                    "price": 12.30,
                     "allergens": []
                 },
                 {
@@ -161,7 +161,7 @@ export const french = {
                 {
                     "title": "Spaghetti Végétarien",
                     "description": "Spaghetti sautés aux légumes variés avec une sauce au poivron rouge et à la betterave",
-                    "price": 13.20,
+                    "price": 12.20,
                     "allergens": []
                 },
                 {
@@ -173,43 +173,43 @@ export const french = {
                 {
                     "title": "Tagliatelle au Pesto",
                     "description": "Tagliatelle avec sauce au basilic, pignons de pin, parmesan et huile d’olive",
-                    "price": 12.40,
+                    "price": 12.50,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri Amatriciana",
                     "description": "Pâtes courtes avec sauce tomate maison et guanciale croustillant",
-                    "price": 13.90,
+                    "price": 12.90,
                     "allergens": []
                 },
                 {
                     "title": "Paccheri à la Norma",
                     "description": "Pâtes aux aubergines, sauce tomate, basilic et scamorza fumée",
-                    "price": 13.50,
+                    "price": 12.90,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle aux Courgettes et Crevettes",
                     "description": "Tagliatelle avec sauce aux courgettes, crevettes, persil et crème",
-                    "price": 13.50,
+                    "price": 13.20,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle aux Cèpes et à la Truffe",
                     "description": "Tagliatelle aux champignons italiens et crème de truffe",
-                    "price": 13.40,
+                    "price": 13.30,
                     "allergens": []
                 },
                 {
                     "title": "Tagliatelle Noires aux Palourdes et au Pesto",
                     "description": "Tagliatelle noires aux palourdes, tomates cerises et pesto",
-                    "price": 16.90,
+                    "price": 15.90,
                     "allergens": []
                 },
                 {
                     "title": "Fusilli aux Fruits de Mer",
                     "description": "Pâtes artisanales aux fruits de mer frais variés en sauce marinara",
-                    "price": 16.90,
+                    "price": 15.90,
                     "allergens": []
                 },
                 {
@@ -233,13 +233,13 @@ export const french = {
                 {
                     "title": "Ravioli Ricotta et Épinards aux Crevettes",
                     "description": "Pâtes farcies à la ricotta et aux épinards avec sauce au poireau, tomate maison, crème et crevettes",
-                    "price": 14.40,
+                    "price": 14.10,
                     "allergens": []
                 },
                 {
                     "title": "Tortellini à la Viande et au Potiron",
                     "description": "Pâtes farcies à la viande avec crème de potiron, saucisse italienne et une touche de crème",
-                    "price": 13.90,
+                    "price": 13.50,
                     "allergens": []
                 }
             ]
@@ -250,7 +250,7 @@ export const french = {
                 {
                     "title": "Risotto aux Fruits de Mer",
                     "description": "Riz crémeux aux fruits de mer variés et tomates cerises",
-                    "price": 16.90,
+                    "price": 16.10,
                     "allergens": []
                 },
                 {
@@ -274,7 +274,7 @@ export const french = {
                 {
                     "title": "Risotto à la Morue et au Poulpe",
                     "description": "Riz crémeux au poulpe et à la morue",
-                    "price": 17.60,
+                    "price": 17.00,
                     "allergens": []
                 }
             ]
@@ -285,7 +285,7 @@ export const french = {
                 {
                     "title": "Filet de Bœuf Grillé",
                     "description": "Filet de bœuf grillé",
-                    "price": 19.90,
+                    "price": 18.90,
                     "allergens": []
                 },
                 {
@@ -297,13 +297,13 @@ export const french = {
                 {
                     "title": "Joues de Porc Ibérique",
                     "description": "Joues de porc ibérique mijotées aux légumes et au vin rouge à la toscane",
-                    "price": 21.50,
+                    "price": 19.90,
                     "allergens": []
                 },
                 {
                     "title": "Escalope de Poulet",
                     "description": "Filet de poulet pané, juteux et croustillant",
-                    "price": 13.50,
+                    "price": 12.50,
                     "allergens": []
                 }
             ]
@@ -314,7 +314,7 @@ export const french = {
                 {
                     "title": "Espadon à la Sicilienne",
                     "description": "Espadon aux câpres, tomates cerises, olives et piment",
-                    "price": 14.50,
+                    "price": 15.10,
                     "allergens": []
                 },
                 {
@@ -367,7 +367,7 @@ export const french = {
                 {
                     "title": "Végétarienne",
                     "description": "Base blanche, crème de courgette, mozzarella fior di latte, poivron rouge, aubergine et champignons",
-                    "price": 13.40,
+                    "price": 13.90,
                     "allergens": []
                 },
                 {
@@ -472,6 +472,12 @@ export const french = {
                     "price": 12.50,
                     "allergens": []
                 }
+                {
+                    "title": "Sfiziosa",
+                    "description": "Crème de courgettes, mozzarella Dior di Late, tomate cerise, guanciale, crème de gorgonzola et noix",
+                    "price": 14.50,
+                    "allergens": []
+                }
             ]
         },
         {
@@ -480,31 +486,31 @@ export const french = {
                 {
                     "title": "Spaghetti à la Tomate ou Bolognaise",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Croquette avec Frites",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Pizza Margherita ou au Jambon",
                     "description": null,
-                    "price": 10.00,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Poulet Pané avec Frites",
                     "description": null,
-                    "price": 10.20,
+                    "price": 10.10,
                     "allergens": []
                 },
                 {
                     "title": "Poisson Pané avec Frites",
                     "description": null,
-                    "price": 10.20,
+                    "price": 10.10,
                     "allergens": []
                 }
             ]
@@ -544,6 +550,12 @@ export const french = {
                 },
                 {
                     "title": "Brownie au Chocolat et Glace",
+                    "description": null,
+                    "price": 5.90,
+                    "allergens": []
+                },
+                {
+                    "title": "Lemon Pie",
                     "description": null,
                     "price": 5.90,
                     "allergens": []
@@ -751,7 +763,7 @@ export const french = {
                 {
                     "title": "Barraquito",
                     "description": null,
-                    "price": 2.30,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
@@ -805,6 +817,12 @@ export const french = {
                     "title": "Schweppes Tonic",
                     "description": null,
                     "price": 2.20,
+                    "allergens": []
+                },
+                {
+                    "title": "Aquarade citron ou orange",
+                    "description": null,
+                    "price": 2.90,
                     "allergens": []
                 },
                 {
@@ -873,9 +891,15 @@ export const french = {
             "name": "Bières et Alcools",
             "entries": [
                 {
-                    "title": "Tropical Non Filtrée",
+                    "title": "verre tropical non filtré",
                     "description": null,
                     "price": 3.20,
+                    "allergens": []
+                },
+                {
+                    "title": "canne tropicale non filtrée",
+                    "description": null,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
