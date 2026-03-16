@@ -471,7 +471,7 @@ export const french = {
                     "description": "Sauce tomate San Marzano, mozzarella fior di latte, bacon, viande hachée, oignon et sauce barbecue",
                     "price": 12.50,
                     "allergens": []
-                }
+                },
                 {
                     "title": "Sfiziosa",
                     "description": "Crème de courgettes, mozzarella Dior di Late, tomate cerise, guanciale, crème de gorgonzola et noix",

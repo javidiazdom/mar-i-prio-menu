@@ -471,7 +471,8 @@ export const german = {
                     "description": "San-Marzano-Tomatensoße, Fior-di-Latte-Mozzarella, Bacon, Hackfleisch, Zwiebel und Barbecuesoße",
                     "price": 12.50,
                     "allergens": []
-                }
+                },
+                {
                     "title": "Sfiziosa",
                     "description": "Zucchini-Creme-Basis, Mozzarella-Käse, Kirschtomaten, Guanciale, Gorgonzola-Creme und Walnüsse",
                     "price": 14.50,

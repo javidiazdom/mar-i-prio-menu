@@ -471,9 +471,10 @@ export const italian = {
                     "description": "Salsa di pomodoro San Marzano, mozzarella fior di latte, bacon, carne macinata, cipolla e salsa barbecue",
                     "price": 12.50,
                     "allergens": []
-                }
+                },
                 {
-                    "title": "Sfiziosa",Base di crema di zucchine, mozzarella fior di latte, pomodorini, guanciale, crema di gorgonzola e nociSalsa di pomodoro San Marzano, mozzarella fior di latte, bacon, carne macinata, cipolla e salsa barbecue",
+                    "title": "Sfiziosa",
+                    "description": "Base di crema di zucchine, mozzarella fior di latte, pomodorini, guanciale, crema di gorgonzola e nociSalsa di pomodoro San Marzano, mozzarella fior di latte, bacon, carne macinata, cipolla e salsa barbecue",
                     "price": 14.50,
                     "allergens": []
                 }
@@ -891,12 +892,13 @@ export const italian = {
             "name": "Birre e Alcolici",
             "entries": [
                 {
-                    "title": "vetro tropicale non filtrato",
+                    "title": "Vetro tropicale non filtrato",
                     "description": null,
                     "price": 3.20,
                     "allergens": []
                 },
-                "title": "canna tropicale non filtrata",
+                {
+                "title": "Canna tropicale non filtrata",
                     "description": null,
                     "price": 2.80,
                     "allergens": []

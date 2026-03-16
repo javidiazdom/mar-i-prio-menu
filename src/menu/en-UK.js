@@ -471,7 +471,7 @@ export const english = {
                     "description": "San Marzano tomato sauce, fior di latte mozzarella, bacon, minced meat, onion and barbecue sauce",
                     "price": 12.50,
                     "allergens": []
-                }
+                },
                 {
                     "title": "Sfiziosa",
                     "description": "Zucchini cream base, mozzarella cheese, cherry tomato, guanciale, gorgonzola cream and walnuts",

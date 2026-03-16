@@ -215,7 +215,7 @@ export const spanish = {
                 {
                     "title": "Fusilli al Ferretto con Funghi e Salsiccia",
                     "description": "Pasta artesanal con setas, salchicha italiana, tomate y un poco de nata",
-                    "price": 15,30,
+                    "price": 15.30,
                     "allergens": []
                 },
                 {
@@ -274,7 +274,7 @@ export const spanish = {
                 {
                     "title": "Risotto Baccalá e Polpo",
                     "description": "Arroz cremoso con pulpo y bacalao",
-                    "price": 17,00,
+                    "price": 17.00,
                     "allergens": []
                 }
             ]
@@ -471,7 +471,7 @@ export const spanish = {
                     "description": "Salsa tomate San Marzano, mozzarella fior di latte, bacon, carne picada, cebolla y salsa barbacoa",
                     "price": 12.50,
                     "allergens": []
-                }
+                },
                 {
                     "title": "Sfiziosa",
                     "description": "Base de crema de calabacín, queso mozarella, tomate cherry, guanciale, crema de gorgonzola y nueves",
@@ -557,7 +557,7 @@ export const spanish = {
                 {
                     "title": "Lemon Pie",
                     "description": null,
-                    "price": 5,60,
+                    "price": 5.60,
                     "allergens": []
                 },
                 {
@@ -813,11 +813,12 @@ export const spanish = {
                     "price": 2.20,
                     "allergens": []
                 },
-                 {
-                    "title": "Aguarade limón o Naranja",
+                {
+                    "title": "Aquarade limón o Naranja",
                     "description": null,
                     "price": 2.90,
                     "allergens": []
+                },
                 {
                     "title": "Clipper fresa",
                     "description": null,
@@ -889,10 +890,10 @@ export const spanish = {
                     "price": 3.20,
                     "allergens": []
                 },
-                 {
+                {
                     "title": "Tropical caña",
                     "description": null,
-                    "price":2,80,
+                    "price": 2.80,
                     "allergens": []
                 },
                 {
